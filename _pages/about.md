@@ -13,11 +13,10 @@ redirect_from:
 My research interests: Generative Adversarial Networks(GAN), Computer Vision(Image Synthesis, Super-Resolution, Style Transfer). To concentrate on research, I gap one year now and will go back to school next year (after summer). Now I am finding a summer research intern position (prefer to GAN related topics) for future PHD application.
 
 # Publication
-**Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**
-**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu (CVPR2019 in process)
 
-**Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**
-Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun* in ICCC2017
+**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. *Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model*. (CVPR 2019 in process)
+
+Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. *Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization*. IEEE ICCC 2017
 
 # Selected Awards
 * Member of Dean’s List  2016, 2017, 2018
