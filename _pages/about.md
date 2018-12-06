@@ -18,6 +18,14 @@ My research interests: Generative Adversarial Networks(GAN), Computer Vision(Ima
 
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**. IEEE ICCC 2017
 
+# Internship Experience
+
+Research Intern in SenseTime Super-Resolution Group,  Sep 2018 ~ Present 
+
+Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2018
+
+(Refer my CV for detailed experiments.)
+
 # Selected Awards
 * Member of Dean’s List  2016, 2017, 2018
 * Undergraduate Research Award  2016, 2017, 2018
