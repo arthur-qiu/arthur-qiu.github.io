@@ -14,9 +14,9 @@ My research interests: Generative Adversarial Networks(GAN), Computer Vision(Ima
 
 # Publication
 
-**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. *Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model*. (CVPR 2019 in process)
+**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**. (CVPR 2019 in process)
 
-Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. *Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization*. IEEE ICCC 2017
+Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**. IEEE ICCC 2017
 
 # Selected Awards
 * Member of Dean’s List  2016, 2017, 2018
