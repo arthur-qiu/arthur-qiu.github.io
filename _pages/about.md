@@ -27,4 +27,4 @@ Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun* in ICCC2017
 * Tencent WeChat Campus Card “Digital Star”  2017
 
 # CV
-<iframe src="http://docs.google.com/gview?url=http://ShunanJiang.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRXDJC9bbyYHV1tZuUdcFaoaBmBdc0Qk_bIkgIwspc8k1PGR-iEZiTtPJmB5bR4p6DwGIN-mGes45qu/pub?embedded=true"></iframe>
