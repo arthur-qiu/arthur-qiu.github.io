@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Haonan Qiu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Vision Researcher"
+  location         : "Shenzhen"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : # "115010214(at)link.cuhk.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "arthur-qiu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "arthurqiu"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
