@@ -18,7 +18,7 @@ To concentrate on research, I gap one year now and will go back to school next y
 
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
 
-# Internship Experience
+# Research Experience
 
 Research Intern in SenseTime Super-Resolution Group,  Sep 2018 ~ Present 
 
