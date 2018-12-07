@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,15 @@ redirect_from:
 
 **I'm seeking a future PhD position in 2020!**
 
-My research interests: Generative Adversarial Networks(GAN), Computer Vision(Image Synthesis, Super-Resolution, Style Transfer). To concentrate on research, I gap one year now and will go back to school next year (after summer). Now I am finding a summer research intern position (prefer to GAN related topics) for future PHD application.
+I'm **Haonan Qiu(邱浩楠)**, an undergraduate student majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution and Style Transfer.
+
+To concentrate on research, I gap one year now and will go back to school next year (after summer). **Now I'm eager to find a summer research intern position.**
 
 # Publication
 
-**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**. (CVPR 2019 in process)
+**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to CVPR 2019.
 
-Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**. IEEE ICCC 2017
+Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, Accepted by IEEE ICCC 2017.
 
 # Internship Experience
 
