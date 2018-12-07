@@ -14,17 +14,23 @@ To concentrate on research, I gap one year now and will go back to school next y
 
 Here is more detailed information about me. <a href="#cv">[CV]</a>
 
+＜/br＞
+
 # Publication 
 
-**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+**Haonan Qiu**, [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360), Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/). **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
-Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
+Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
+
+＜/br＞
 
 # Research Experience
 
 Research Intern in SenseTime Super-Resolution Group,  Sep 2018 ~ Present 
 
 Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2018
+
+＜/br＞
 
 # Selected Awards
 
@@ -33,6 +39,8 @@ Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2
 * Undergraduate Student Teaching Fellow (Teaching Assistant, 3 semesters for Python \& C++ lab)  2016, 2017
 * Academic Performance (AP) Scholarship  2018
 * Tencent WeChat Campus Card “Digital Star”  2017
+
+＜/br＞
 
 # CV
 
