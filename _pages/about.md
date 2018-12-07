@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution, Style Transfer and other related applications.
 
-To concentrate on research, I gap one year now and will go back to school next year (after summer). **Now I'm eager to find a summer research intern position.**
+To concentrate on research, I gap one year now and will go back to school next year (after summer). **I’m eager to pursue a future PhD position(2020 FALL).**
 
 Here is more detailed information about me. <a href="#cv">[CV]</a>
 
