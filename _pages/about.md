@@ -12,7 +12,7 @@ I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at 
 
 To concentrate on research, I gap one year now and will go back to school next year (after summer). **Now I'm eager to find a summer research intern position.**
 
-# Publication
+<h2> Publication </h2>
 
 **Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
