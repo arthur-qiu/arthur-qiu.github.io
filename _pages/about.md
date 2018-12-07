@@ -12,21 +12,21 @@ I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at 
 
 To concentrate on research, I gap one year now and will go back to school next year (after summer). **Now I'm eager to find a summer research intern position.**
 
-<h3>Publication</h3>
+Here is more detailed information about me. <a href="#cv">[CV]</a>
+
+<h1>Publication</h1>
 
 **Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
 
-<h3> Research Experience </h3>
+<h1> Research Experience </h1>
 
 Research Intern in SenseTime Super-Resolution Group,  Sep 2018 ~ Present 
 
 Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2018
 
-(Refer my <a href="#cv">CV</a> for detailed experiments.)
-
-<h3>Selected Awards</h3>
+<h1>Selected Awards</h1>
 * Member of Dean’s List  2016, 2017, 2018
 * Undergraduate Research Award  2016, 2017, 2018
 * Undergraduate Student Teaching Fellow (Teaching Assistant, 3 semesters for Python \& C++ lab)  2016, 2017
