@@ -36,7 +36,7 @@ Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2
 
 * Member of Dean’s List  2016, 2017, 2018
 * Undergraduate Research Award  2016, 2017, 2018
-* Undergraduate Student Teaching Fellow (Teaching Assistant, 3 semesters for Python \& C++ lab)  2016, 2017
+* Undergraduate Student Teaching Fellow (Teaching Assistant)  2016, 2017
 * Academic Performance (AP) Scholarship  2018
 * Tencent WeChat Campus Card “Digital Star”  2017
 
