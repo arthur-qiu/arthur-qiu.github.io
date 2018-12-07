@@ -24,7 +24,7 @@ Research Intern in SenseTime Super-Resolution Group,  Sep 2018 ~ Present
 
 Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2018
 
-(Refer my CV for detailed experiments.)
+(Refer my <a href="#cv">CV</a> for detailed experiments.)
 
 # Selected Awards
 * Member of Dean’s List  2016, 2017, 2018
@@ -38,4 +38,4 @@ Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2
 * C++(OpenCV)
 
 # CV
-<iframe src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
+<iframe id='cv' src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
