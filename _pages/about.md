@@ -16,9 +16,9 @@ To concentrate on research, I gap one year now and will go back to school next y
 
 # Publication
 
-**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to CVPR 2019.
+**Haonan Qiu**, Xiaoguang Han, Chuan Wang, Hang Zhu, Xiangyu Zhu, Jinjin Gu. **Two-phase Hair Image Synthesis by A Self-Enhancing Generative Model**, submitted to IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
-Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, Accepted by IEEE ICCC 2017.
+Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and Man-On Pun. **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
 
 # Internship Experience
 
