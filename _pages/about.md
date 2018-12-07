@@ -22,7 +22,7 @@ Here is more detailed information about me. <a href="#cv">[CV]</a>
 
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
 
-＜br/＞
+＜br /＞
 
 # Research Experience
 
@@ -30,7 +30,7 @@ Research Intern in SenseTime Super-Resolution Group,  Sep 2018 ~ Present
 
 Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2018
 
-＜br/＞
+＜br /＞
 
 # Selected Awards
 
@@ -40,7 +40,7 @@ Research Assistant in Shenzhen Research Institute of Big Data,  Jan 2017 - Sep 2
 * Academic Performance (AP) Scholarship  2018
 * Tencent WeChat Campus Card “Digital Star”  2017
 
-＜br/＞
+＜br /＞
 
 # CV
 
