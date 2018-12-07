@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I'm seeking a future PhD position in 2020!**
-
-I'm **Haonan Qiu(邱浩楠)**, an undergraduate student majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution and Style Transfer.
+I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution and Style Transfer.
 
 To concentrate on research, I gap one year now and will go back to school next year (after summer). **Now I'm eager to find a summer research intern position.**
 
