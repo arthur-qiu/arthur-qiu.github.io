@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution, Style Transfer and other related applications.
+I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution, Style Transfer and other related applications. Currently, I mainly focus on some researches in adversarial learning.
 
 To concentrate on research, I gap one year now and will go back to school next year (after summer). **I’m eager to pursue a future PhD position(2020 FALL).**
 
@@ -26,7 +26,7 @@ Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse
 
 # Research Experience
 
-Research Intern in [SenseTime](https://www.sensetime.com/) Super-Resolution Group,  Sep 2018 - Present 
+Research Intern in [SenseTime](https://www.sensetime.com/) Super-Resolution Group,  Sep 2018 - May 2019 
 
 Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/index.php/en/),  Jan 2017 - Sep 2018
 
