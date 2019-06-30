@@ -18,6 +18,8 @@ Here is more detailed information about me. <a href="#cv">[CV]</a>
 
 # Publication 
 
+**Haonan Qiu**, [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/), [**SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**](https://arxiv.org/abs/1906.07927), arXiv preprint.
+
 **Haonan Qiu**, [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360), Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/). [**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**](https://arxiv.org/pdf/1902.11203.pdf), arXiv preprint.
 
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
