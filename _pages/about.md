@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Adversarial Learning, Deep Learning, and Computer Vision (particularly deep generative models). 
 
-I just finished the gap year in Sensetime and now go back to school as a senior student. Currently, I am a research intern hosted by [Prof. Bo Li](http://www.crystal-boli.com/) and work closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). **I’m eager to pursue a future PhD position(2020 FALL).**
+I just finished the gap year in Sensetime and now go back to school as a senior student. Currently, I am a research intern hosted by [Prof. Bo Li](http://www.crystal-boli.com/) and work closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). **I’m eager to pursue a future PhD position (2020 FALL).**
 
 Here is more detailed information about me. <a href="#cv">[CV]</a>
 
