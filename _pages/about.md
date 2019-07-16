@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Computer Vision and Deep Learning, particularly deep generative models (like GAN) on Image Synthesis, Super-Resolution, Style Transfer and other related applications. Currently, I mainly focus on some researches in adversarial learning.
+I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Adversarial Learning, Deep Learning, and Computer Vision (deep generative models). 
 
-To concentrate on research, I gap one year now and will go back to school next year (after summer). **I’m eager to pursue a future PhD position(2020 FALL).**
+Currently, I am a research intern hosted by [Prof. Bo Li](http://www.crystal-boli.com/). I work closely with [Dr. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/)
+
+I finish the gap year and now go back to school as a senior student. **I’m eager to pursue a future PhD position(2020 FALL).**
 
 Here is more detailed information about me. <a href="#cv">[CV]</a>
 
