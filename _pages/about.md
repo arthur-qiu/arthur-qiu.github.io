@@ -22,7 +22,9 @@ Here is more detailed information about me. <a href="#cv">[CV]</a>
 
 **Haonan Qiu**, [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360), Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/). [**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**](https://arxiv.org/pdf/1902.11203.pdf), arXiv preprint.
 
+<!--
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
+-->
 
 ---
 
