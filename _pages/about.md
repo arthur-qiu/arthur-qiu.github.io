@@ -23,7 +23,7 @@ Here is more detailed information about me. <a href="#cv">[CV]</a>
 ArXiv preprint, 2019.
 
 [**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**](https://arxiv.org/abs/1902.11203)  
-**Haonan Qiu**, [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360), Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/)  
+**Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 To appear in Computer Graphics Forum (CGF), 2019.
 
 <!--
