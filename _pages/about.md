@@ -12,7 +12,7 @@ I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at 
 
 I just finished the gap year in Sensetime and now go back to school as a senior student. Currently, I am a research intern hosted by [Prof. Bo Li](http://www.crystal-boli.com/) and work closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). **I’m eager to pursue a future PhD position (2020 FALL).**
 
-Here is more detailed information about me. <a href="#cv">[CV]</a>
+Here is more detailed information about me. <a href="./cv">[CV]</a>
 
 ---
 
@@ -48,8 +48,8 @@ Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd
 * Academic Performance (AP) Scholarship  2018
 * Tencent WeChat Campus Card “Digital Star”  2017
 
+<!--
 ---
-
 # CV
-
 <iframe id='cv' src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
+-->
