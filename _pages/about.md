@@ -23,10 +23,10 @@ Here is more detailed information about me. <a href="./cv">[CV]</a>
 ArXiv preprint, 2019.  
 [[Paper]](https://arxiv.org/abs/1906.07927) [[News]](https://www.jiqizhixin.com/articles/2019-07-12-2)
 
-**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model** 
+**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 To appear in Computer Graphics Forum (CGF), 2019.  
-[[Paper]](https://arxiv.org/abs/1902.11203) [[Dataset]](./cv)
+[[Paper]](https://arxiv.org/abs/1902.11203) [[Dataset]](./datasets)
 
 <!--
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
