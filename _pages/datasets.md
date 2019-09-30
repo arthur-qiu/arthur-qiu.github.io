@@ -8,4 +8,5 @@ author_profile: true
 
 Sketch2Hair  
 (Two-phase Hair Image Synthesis by Self-Enhancing Generative Model)  
-[[download](https://drive.google.com/file/d/1PeD1CcY1D_JOdqfr6DkkdtDl_w_u_-F6/view?usp=sharing/)]
+[[download](https://drive.google.com/file/d/1PeD1CcY1D_JOdqfr6DkkdtDl_w_u_-F6/view?usp=sharing/)]  
+Correction in paper: In Figure9, (c)CRN and (d)pix2pixHD should be exchanged.
