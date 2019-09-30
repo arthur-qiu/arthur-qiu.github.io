@@ -36,7 +36,7 @@ Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse
 
 # Research Experience
 
-Research Intern, Remotely Corporate With [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC,  June 2019 - Present
+Research Intern, Remotely Corporate With [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC,  May 2019 - Present
 
 Research Intern in Super-Resolution Group at [SenseTime](https://www.sensetime.com/),  Sep 2018 - May 2019 
 
