@@ -50,7 +50,7 @@ Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd
 
 * Dean’s List  2016, 2017, 2018
 * Undergraduate Research Award  2016, 2017, 2018
-* Undergraduate Student Teaching Fellow (Student Teaching Assistant)  2016, 2017
+* Undergraduate Student Teaching Fellow  2017, 2018
 * Academic Performance Scholarship  2018
 * Tencent WeChat Campus Card “Digital Star”  2017
 
