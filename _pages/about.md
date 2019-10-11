@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Adversarial Learning, Deep Learning, and Computer Vision (particularly deep generative models). 
+I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Adversarial Machine Learning, Deep Learning, and Computer Vision (particularly deep generative models). 
 
-Before starting the last year of the undergraduatey, I gaped one year to explore my research interests. I firstly joined Sensetime as a research intern. After that, I was supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely and worked closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research about Adversarial Learning.
+Before starting the last year of the undergraduatey, I gaped one year to explore my research interests. I firstly joined Sensetime as a research intern. After that, I was supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely and worked closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research about Adversarial Machine Learning.
  
 Now I go back to school as a senior student. **I’m eager to pursue a future PhD position (2020 FALL).** Feel free to drop me an email.
 
@@ -38,11 +38,11 @@ Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse
 
 # Research Experience
 
-Research Intern, Remotely Corporate With [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC,  May 2019 - Present
+Research Intern, Remotely Corporate With [Prof. Bo Li](http://www.crystal-boli.com/) at UIUC,  May 2019 - Present
 
 Research Intern in Super-Resolution Group at [SenseTime](https://www.sensetime.com/),  Sep 2018 - May 2019 
 
-Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/index.php/en/),  Jan 2018 - Sep 2018
+Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd.cn/index.php/en/) at CUHK(SZ),  Jan 2018 - Sep 2018
 
 ---
 
