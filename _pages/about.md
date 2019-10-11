@@ -46,7 +46,7 @@ Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd
 
 ---
 
-# Selected Awards
+# Selected Honors
 
 * Dean’s List  2016, 2017, 2018
 * Undergraduate Research Award  2016, 2017, 2018
