@@ -18,7 +18,7 @@ Here is more detailed information about me. <a href="./cv">[CV]</a>
 
 ---
 
-# Publication 
+# Publications 
 
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**  
 **Haonan Qiu**, [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
