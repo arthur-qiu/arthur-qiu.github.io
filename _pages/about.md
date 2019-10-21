@@ -23,7 +23,7 @@ Here is more detailed information about me. <a href="./cv">[CV]</a>
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**  
 **Haonan Qiu**, [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
 ArXiv preprint, 2019.  
-[[Paper]](https://arxiv.org/abs/1906.07927) [[News]](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)
+[[Paper]](https://arxiv.org/abs/1906.07927) [[Project Page]](https://sites.google.com/view/generate-semantic-adv-example) [[News]](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)  
 
 **Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
