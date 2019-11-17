@@ -12,7 +12,7 @@ I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at 
 
 Before starting the last year of the undergraduatey, I gaped one year to explore my research interests. I firstly joined Sensetime as a research intern. After that, I was supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely and worked closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research about Adversarial Machine Learning.
  
-Now I go back to school as a senior student. **I’m eager to pursue a future PhD position (2020 FALL).** <span style="color:#DC143C;">Feel free to drop me an email.</span>
+Now I go back to school as a senior student. <span style="color:#DC143C;">I’m eager to pursue a future PhD position (2020 FALL). Feel free to drop me an email.</span>
 
 Here is more detailed information about me. <a href="./cv">[CV]</a>
 
