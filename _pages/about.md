@@ -31,10 +31,9 @@ ArXiv preprint, 2019.
 # Selected Publications  
 
 <img src='./files/hairgan.png' style='float:left;width:210px;height:140px;margin-right:20px'/>
-<p style='float:right'>Two-phase Hair Image Synthesis by Self-Enhancing Generative Model</p>
-**Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
-Computer Graphics Forum (CGF), 2019.
-[[Paper](https://diglib.eg.org/handle/10.1111/cgf13847)] [[Arxiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
+<p style='float:right'><strong>Two-phase Hair Image Synthesis by Self-Enhancing Generative Model</strong></p>
+<p style='float:right'><strong>Haonan Qiu</strong>, Chuan Wang, Hang Zhu, Xiangyu Zhu, <a href="http://www.jasongt.com/">Jinjin Gu</a>, <a href="http://sse.cuhk.edu.cn/en/node/7360/">Xiaoguang Han</a></p>
+<p style='float:right'>Computer Graphics Forum (CGF), 2019. <a href="https://diglib.eg.org/handle/10.1111/cgf13847">[Paper]</a> <a href="https://arxiv.org/abs/1902.11203">[Arxiv]</a> <a href="./datasets">[Dataset]</a></p>
 
 <!--
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
