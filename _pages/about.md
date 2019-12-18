@@ -31,7 +31,7 @@ ArXiv preprint, 2019.
 # Selected Publications  
 
 <img src='./files/hairgan.png' style='float:left;width:210px;height:140px;margin-right:20px'/>
-<p align="right">Two-phase Hair Image Synthesis by Self-Enhancing Generative Model</p>
+<p style='float:right'>Two-phase Hair Image Synthesis by Self-Enhancing Generative Model</p>
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 Computer Graphics Forum (CGF), 2019.
 [[Paper](https://diglib.eg.org/handle/10.1111/cgf13847)] [[Arxiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
