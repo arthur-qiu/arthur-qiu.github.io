@@ -20,8 +20,7 @@ Here is more detailed information about me. <a href="./cv">[CV]</a>
 
 # Working Papers 
 
-<img src='./files/semanticadv.png' style='float:left;width:420rpx;height:280rpx;margin-right:40rpx'/>
-
+<img src='./files/semanticadv.png' style='float:left;width:13.125em;height:8.75em;margin-right:1.25em'/>
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**  
 **Haonan Qiu**, [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
 ArXiv preprint, 2019. 
@@ -31,7 +30,7 @@ ArXiv preprint, 2019.
 
 # Selected Publications  
 
-<img src='./files/hairgan.png' style='float:left;width:420rpx;height:280rpx;margin-right:40rpx'/>
+<img src='./files/hairgan.png' style='float:left;width:210px;height:140px;margin-right:20px'/>
 **Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 Computer Graphics Forum (CGF), 2019.
