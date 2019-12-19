@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. I'm interested in Adversarial Machine Learning, Deep Learning, and Computer Vision (particularly deep generative models). 
 
-Before starting the last year of the undergraduatey, I gaped one year to explore my research interests. I firstly joined Sensetime as a research intern. After that, I was supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely and worked closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research about Adversarial Machine Learning.
+Before starting the last year of the undergraduate, I gapped one year to explore my research interests. I firstly joined Sensetime as a research intern. After that, I was supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely and worked closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research about Adversarial Machine Learning.
  
 Now I go back to school as a senior student. <span style="color:#DC143C;">I’m eager to pursue a PhD position (2020 FALL). Feel free to drop me an email.</span>
 
