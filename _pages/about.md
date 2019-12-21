@@ -34,7 +34,7 @@ ArXiv preprint, 2019.
 **Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 Computer Graphics Forum (CGF), 2019.
-[[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13847)] [[Arxiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
+[[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13847)] [[Arxiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
 
 <!--
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
