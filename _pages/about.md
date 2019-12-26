@@ -14,7 +14,9 @@ Before starting the last year of the undergraduate, I gapped one year to explore
  
 Now I go back to school as a senior student. If you are interested in my research, communications are welcomed. <span style="color:#DC143C;">I’m eager to pursue a PhD position (2020 FALL). Feel free to drop me an email.</span>
 
+<!--
 Here is more detailed information about me. <a href="./cv">[CV]</a>
+-->
 
 ---
 
