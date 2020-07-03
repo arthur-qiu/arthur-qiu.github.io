@@ -30,7 +30,7 @@ Here is more detailed information about me. <a href="./cv">[CV]</a>
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**  
-**Haonan Qiu**, [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
+**Haonan Qiu\***, [Chaowei Xiao*](http://www-personal.umich.edu/~xiaocw/), [Lei Yang*](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
 European Conference on Computer Vision (ECCV), 2020. 
 [[Arxiv](https://arxiv.org/abs/1906.07927)] [[Project Page](https://sites.google.com/view/generate-semantic-adv-example)] [[News](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)] [[Slides](https://docs.google.com/presentation/d/1H3_ATznmQ9EXBEXMNAsSETKvSByjNXxXDXFjGr8H-9w/edit?usp=sharing)] \[Code\] (Not Ready)  
 
