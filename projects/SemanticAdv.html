@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>SemanticAdv: Generating Adversarial Examples via Attribute-conditioned Image Editing</title>
+
+	<meta name="description" content="SemanticAdv">
+    <meta name="keywords" content="CUHK,Vision,Cluster,Learning,GCN,Affinity">
+
+	<link rel="author" href="https://yanglei.me/">
+
+	<link rel="stylesheet" type="text/css" href="./SemanticAdv_files/main.css" media="screen">
+</head>
+
+<body data-gr-c-s-loaded="true">
+<div id="content">
+<div id="content-inner">
+<div class="section head">
+<h1>SemanticAdv: Generating Adversarial Examples </br> via Attribute-conditioned Image Editing</h1>
+
+<div class="authors">
+<a href="https://haonanqiu.com/">Haonan Qiu*<sup>1</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www-personal.umich.edu/~xiaocw/">Chaowei Xiao*<sup>2</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://yanglei.me/">Lei Yang*<sup>3</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sites.google.com/site/skywalkeryxc/">Xinchen Yan<sup>5</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=http://web.eecs.umich.edu/~honglak/>Honglak Lee<sup>2</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.crystal-boli.com/">Bo Li<sup>4</sup></a>
+</div>
+
+<div class="affiliations">
+<sup>1</sup>The Chinese University of Hong Kong, Shenzhen
+<sup>2</sup>University of Michigan, Ann Arbor</a><br>
+<sup>3</sup>The Chinese University of Hong Kong 
+<sup>4</sup>University of Illinois Urbana-Champaign 
+<sup>5</sup>Uber ATG
+</div>
+
+<div class="venue">
+Proceedings of the European Conference on Computer Vision (<a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a>)</a><br>* The first three authors contributed equally.</div>
+</div>
+
+      
+<center><img src="./SemanticAdv_files/pipeline.png" border="0" width="90%"></center>
+
+<div class="section abstract">
+<h2>Abstract</h2>
+<br>
+<p>
+Recent studies have shown that DNNs are vulnerable to adversarial examples which are manipulated instances targeting to mislead DNNs to make incorrect predictions. Currently, most such adversarial examples try to guarantee “subtle perturbation” by limiting the Lp norm of the perturbation. In this paper, we propose <I>SemanticAdv</I> to generate a new type of semantically realistic adversarial examples via attribute-conditioned image editing. Compared to existing methods, our <I>SemanticAdv</I> enables fine-grained analysis and evaluation of DNNs with input variations in the attribute space. We conduct comprehensive experiments to show that our adversarial examples not only exhibit semantically meaningful appearances but also achieve high targeted attack success rates under both whitebox and blackbox settings. Moreover, we show that the existing pixel-based and attribute-based defense methods fail to defend against <I>SemanticAdv</I>. We demonstrate the applicability of <I>SemanticAdv</I> on both face recognition and general street-view images to show its generalization. We believe that our work can shed light on further understanding about vulnerabilities of DNNs as well as novel defense approaches. Our implementation is available at <a href="https://github.com/AI-secure/SemanticAdv">https://github.com/AI-secure/SemanticAdv</a>.
+</p>
+</div>
+
+<div class="section">
+<h2>Code and Models</h2>
+<table width="100%" align="center" border="none" cellspacing="0" cellpadding="30">
+	<tbody><tr>
+	<td width="30%" valign="middle">
+	  <center>
+	    <a href="https://github.com/AI-secure/SemanticAdv" target="_blank"><img height="200" src="./SemanticAdv_files/github.png"></a><br><br>
+	    <a href="https://github.com/AI-secure/SemanticAdv" target="_blank">Codes</a>
+	  </center>
+	</td>
+	</tr></tbody>
+</table>
+</div>
+
+<div class="section">
+<h2>Citation</h2>
+<div class="bibtex">
+<pre>
+@inproceedings{qiu2019semanticadv,
+  title={Semanticadv: Generating adversarial examples via attribute-conditioned image editing},
+  author={Qiu, Haonan and Xiao, Chaowei and Yang, Lei and Yan, Xinchen and Lee, Honglak and Li, Bo},
+  booktitle={ECCV},
+  year={2020}
+}
+</pre>
+</div>
+</div>
+
+</div></div>
+<script type="text/javascript" src="chrome-extension://emikbbbebcdfohonlaifafnoanocnebl/js/minerkill.js"></script></body></html>
