@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, an undergraduate majoring in computer science at School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen. My research interests mainly focus on Adversarial Machine Learning, Deep Learning, and Computer Vision (particularly deep generative models). 
+I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my bachelor degree from The Chinese University of Hong Kong, majoring in computer science at School of Science and Engineering. My research interests mainly focus on Adversarial Machine Learning, Deep Learning, and Computer Vision (particularly deep generative models). 
 
-In the past two years, I have thoroughly explored many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also work closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research on Adversarial Machine Learning.
- 
-<span style="color:#DC143C;">I will be a PhD student at NTU soon.</span> If you are interested in my research, communications and cooperations are both welcomed. Feel free to drop me an email.
+I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also work closely with [Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research on Adversarial Machine Learning.
+
 
 <!--
 Here is more detailed information about me. <a href="./cv">[CV]</a>
