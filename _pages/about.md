@@ -54,7 +54,7 @@ Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse
 
 # Research Experience
 
-Research Consultant at [SenseTime](https://www.sensetime.com/),  Nov 2020 - July 2021
+Research Consultant, at [SenseTime](https://www.sensetime.com/),  Nov 2020 - July 2021
 
 Research Intern, Remotely Corporate With [Prof. Bo Li](http://www.crystal-boli.com/) at UIUC,  May 2019 - Nov 2020
 
