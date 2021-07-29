@@ -39,6 +39,13 @@ European Conference on Computer Vision (ECCV), 2020.
 Computer Graphics Forum (CGF), 2019.
 [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13847)] [[Arxiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
 
+
+<img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**  
+Mingjie Sun, Zichao Li, Chaowei Xiao, **Haonan Qiu**, Bhavya Kailkhura, Mingyan Liu, Bo Li  
+International Conference on Computer Vision (ICCV), 2021.
+
+
 <!--
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
 -->
