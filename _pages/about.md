@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my bachelor degree from The Chinese University of Hong Kong, majoring in computer science at School of Science and Engineering. My research interests mainly focus on Deep Generative Models, Adversarial Machine Learning, and Forgery Detection. 
+I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. My research interests mainly focus on Deep Generative Models, Adversarial Machine Learning, and Forgery Detection. 
 
 I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also work closely with [Dr. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research on Adversarial Machine Learning.
 
