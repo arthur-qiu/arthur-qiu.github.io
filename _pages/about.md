@@ -43,7 +43,7 @@ Computer Graphics Forum (CGF), 2019.
 **Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**  
 Mingjie Sun, Zichao Li, Chaowei Xiao, **Haonan Qiu**, Bhavya Kailkhura, Mingyan Liu, Bo Li  
 International Conference on Computer Vision (ICCV), 2021.
-
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)]
 
 <!--
 Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
