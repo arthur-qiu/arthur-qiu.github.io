@@ -41,7 +41,7 @@ Computer Graphics Forum (CGF), 2019.
 
 <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**  
-Mingjie Sun, Zichao Li, Chaowei Xiao, **Haonan Qiu**, Bhavya Kailkhura, Mingyan Liu, Bo Li  
+Mingjie Sun\*, Zichao Li\*, Chaowei Xiao\*, **Haonan Qiu**, Bhavya Kailkhura, Mingyan Liu, Bo Li  
 International Conference on Computer Vision (ICCV), 2021.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)]
 
