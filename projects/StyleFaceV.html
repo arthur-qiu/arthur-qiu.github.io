@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>StyleFaceV: Alias-Free Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3 </title>
+
+	<meta name="description" content="StyleFaceV">
+    <meta name="keywords" content="CUHK,Vision,Cluster,Learning,GCN,Affinity">
+
+	<link rel="author" href="https://yanglei.me/">
+
+	<link rel="stylesheet" type="text/css" href="./StyleFaceV_files/main.css" media="screen">
+</head>
+
+<body data-gr-c-s-loaded="true">
+<div id="content">
+<div id="content-inner">
+<div class="section head">
+<h1>StyleFaceV: Alias-Free Face Video Generation </br> via Decomposing and Recomposing Pretrained StyleGAN3 </h1>
+
+<div class="authors">
+<a href="https://haonanqiu.com/">Haonan Qiu<sup>1</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://yumingj.github.io/">Yuming Jiang<sup>1</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hangz-nju-cuhk.github.io/">Hang Zhou<sup>2</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dblp.org/pid/50/8731.html">Wayne Wu<sup>3</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://liuziwei7.github.io/">Ziwei Liu<sup>1</sup></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
+<div class="affiliations">
+<sup>1</sup>S-Lab, Nanyang Technological University
+<sup>2</sup>The Chinese University of Hong Kong
+<sup>3</sup>SenseTime Research
+</div>
+
+<div class="venue">
+Arxiv, 2022.</div>
+</div>
+
+      
+<center><img src="./StyleFaceV_files/teaser.png" border="0" width="100%"></center>
+
+<div class="section abstract">
+<h2>Abstract</h2>
+<br>
+<p>
+Realistic generative face video synthesis has long been a pursuit in both computer vision and graphics community. However, existing face video generation methods tend to produce low-quality frames with drifted facial identities and unnatural movements. To tackle these challenges, we propose a principled framework named <b>StyleFaceV</b>, which produces high-fidelity identity-preserving face videos with vivid movements. Our core insight is to <I>decompose appearance and pose information and recompose them in the latent space of StyleGAN3 to produce stable and dynamic results</I>. Specifically, StyleGAN3 provides strong priors for high-fidelity facial image generation, but the latent space is intrinsically entangled. By carefully examining its latent properties, we propose our decomposition and recomposition designs which allow for the disentangled combination of facial appearance and movements. Moreover, a temporal-dependent model is built upon the decomposed latent features, and samples reasonable sequences of motions that are capable of generating realistic and temporally coherent face videos. Particularly, our pipeline is trained with a joint training strategy on both static images and high-quality video data, which is of higher data efficiency. Extensive experiments demonstrate that our framework achieves state-of-the-art face video generation results both qualitatively and quantitatively. Notably, <b>StyleFaceV</b> is capable of generating realistic 1024 × 1024 face videos even without high-resolution training videos.
+</p>
+</div>
+
+
+<!--
+<div class="section">
+<h2>Materials</h2>
+<table width="100%" align="center" border="none" cellspacing="0" cellpadding="30">
+	<tbody><tr>
+	<td width="40%">
+	  <center>
+	    <a href="https://arxiv.org/abs/1904.02749" target="_blank"><img height="200" src="./StyleFaceV_files/paper.png"></a><br><br>
+	    <a href="https://arxiv.org/abs/1904.02749" target="_blank">Paper</a>
+	  </center>
+	</td>
+	<td width="40%">
+	  <center>
+	    <a href="https://drive.google.com/open?id=10Fu9lguUPw-f9cm-P--qv5lkJdwJcKOl" target="_blank"><img height="200" src="./StyleFaceV_files/poster.png"></a><br><br>
+	    <a href="https://drive.google.com/open?id=10Fu9lguUPw-f9cm-P--qv5lkJdwJcKOl" target="_blank">Poster</a>
+	  </center>
+	</td>
+	</tr></tbody>
+</table>
+</div>
+-->
+
+
+<div class="section">
+<h2>Links</h2>
+<table width="100%" align="center" border="none" cellspacing="0" cellpadding="30">
+	<tbody><tr>
+		<td width="40%">
+	  <center>
+	    <a href="https://github.com/arthur-qiu/StyleFaceV" target="_blank"><img height="200" src="./StyleFaceV_files/paper.png"></a><br><br>
+	    <a href="https://github.com/arthur-qiu/StyleFaceV" target="_blank">Arxiv</a>
+	  </center>
+	</td>
+	<td width="40%" valign="middle">
+	  <center>
+	    <a href="https://github.com/arthur-qiu/StyleFaceV" target="_blank"><img height="200" src="./StyleFaceV_files/github.png"></a><br><br>
+	    <a href="https://github.com/arthur-qiu/StyleFaceV" target="_blank">Codes</a>
+	  </center>
+	</td>
+	</tr></tbody>
+</table>
+</div>
+
+<div class="section">
+  <h2>Video</h2>
+  <br>
+  <div style="text-align:center;">
+    <iframe width="880" height="495" src="https://www.youtube.com/embed/x5qibEEDJoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+<div class="section">
+  <h2><b>Sampling diverse appearances and motions</h2>
+  <br>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_teaser.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">StyleFaceV (ours)</p>
+    </center>
+  </div>
+</div>
+
+<div class="section">
+  <h2><b>Random Results</b> on RAVDESS</h2>
+  <br>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_facev2.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">StyleFaceV (ours)</p>
+    </center>
+  </div>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_digan.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">DI-GAN</p>
+    </center>
+  </div>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_styleganv.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">SG-V</p>
+    </center>
+  </div>
+</div>
+
+<div class="section">
+  <h2><b>Random Results</b> on FFHQ</h2>
+  <br>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_facev1.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">StyleFaceV (ours)</p>
+    </center>
+  </div>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_moco1.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">MCHD-pre</p>
+    </center>
+  </div>
+  <div style="text-align: center;">
+    <video width="880" style="border: 1px solid black; border-radius: 1px;" preload="auto" src="./StyleFaceV_files/h264_moco2.mp4" type="video/mp4" controls="" loop=""></video>
+    <center>
+    	<p style="margin:0px 0px 20px">MCHD-re</p>
+    </center>
+  </div>
+
+</div>
+
+<!--
+<div class="section">
+<h2>Public Video</h2>
+<div style="text-align:center;">
+<iframe width="560" height="315" src="./StyleFaceV_files/cN0C_OrPQuA.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+
+<div class="section">
+<h2>Presentation</h2>
+<table width="100%" align="center" border="none" cellspacing="0" cellpadding="30">
+	<tbody><tr>
+	<td width="50%">
+	  <center>
+	    <a href="https://youtu.be/gnREux6Zwjg?t=5717" target="_blank"><img height="200" src="./StyleFaceV_files/video.png"></a><br><br>
+	    <a href="https://youtu.be/gnREux6Zwjg?t=5717" target="_blank">Video Recording</a>
+	  </center>
+	</td>
+	<td width="50%" valign="middle">
+	  <center>
+	    <a href="https://drive.google.com/open?id=1KwzSAfQDNBOPVyYJWnLx9JIS6gK190MD" target="_blank"><img height="200" src="./StyleFaceV_files/slides.png"></a><br><br>
+	    <a href="https://drive.google.com/open?id=1KwzSAfQDNBOPVyYJWnLx9JIS6gK190MD" target="_blank">Slides</a>
+	  </center>
+	</td>
+	</tr></tbody>
+</table>
+</div>
+
+<div class="section">
+	<h2>Related Publication</h2>
+	<p>
+		<b>Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition.</b> Xiaohang Zhan, Ziwei Liu, Junjie Yan, Dahua Lin, Chen Change Loy. In Proceedings of European Conference on Computer Vision (ECCV), 2018
+		<a href="https://arxiv.org/abs/1809.01407">[PDF]</a>
+		<a href="http://mmlab.ie.cuhk.edu.hk/projects/CDP/">[Project Page]</a>
+		<a href="https://github.com/XiaohangZhan/cdp/">[Code]</a>
+	</p>
+	<p>
+		<b>Learning to Cluster Faces via Confidence and Connectivity Estimation.</b> Lei Yang, Dapeng Chen, Xiaohang Zhan, Rui Zhao, Chen Change Loy, Dahua Lin. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
+		<a href="https://arxiv.org/abs/2004.00445">[PDF]</a>
+		<a href="https://yanglei.me/project/ltc_v2/">[Project Page]</a>
+		<a href="https://github.com/yl-1993/learn-to-cluster">[Code]</a>
+	</p>
+</div>
+-->
+
+<div class="section">
+<h2>Citation</h2>
+<div class="bibtex">
+<pre>
+<!-@inproceedings{qiu2022StyleFaceV,
+  title={},
+  author={},
+  booktitle={ECCV},
+  year={2020}
+} -->
+</pre>
+</div>
+</div>
+
+</div></div>
+<script type="text/javascript" src="chrome-extension://emikbbbebcdfohonlaifafnoanocnebl/js/minerkill.js"></script></body></html>
