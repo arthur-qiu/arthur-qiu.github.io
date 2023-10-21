@@ -1,0 +1,183 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>FreeNoise</title>
+<link rel="stylesheet" href="./FreeNoise_files/css/bulma.min.css">
+<link rel="stylesheet" href="./FreeNoise_files/css/bulma-carousel.min.css">
+<link rel="stylesheet" href="./FreeNoise_files/css/index.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="./FreeNoise_files/js/bulma-carousel.min.js"></script>
+<script src="./FreeNoise_files/js/index.js"></script>
+<link href="./FreeNoise_files/css/style.css" rel="stylesheet">
+</head>
+
+<body data-new-gr-c-s-check-loaded="14.1117.0" data-gr-ext-installed="">
+<div class="content">
+  <h1><strong>FreeNoise: Tuning-Free Longer Video Diffusion <br> via Noise Rescheduling</strong></h1>
+  <p id="authors"><a href="http://haonanqiu.com/">Haonan Qiu<sup>1</sup></a> <a href="https://menghanxia.github.io">Menghan Xia<sup>*2</sup></a> <a href="https://yzhang2016.github.io">Yong Zhang<sup>2</sup></a></p>
+  <p id="authors"><a href="https://github.com/YingqingHe">Yingqing He<sup>2,3</sup></a> <a href="https://xinntao.github.io">Xintao Wang<sup>2</sup></a> <a href="https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ">Ying Shan<sup>2</sup></a> <a href="https://liuziwei7.github.io/">Ziwei Liu<sup>*1</sup></a><br>
+  <br>
+  <span style="font-size: 16px"><sup>1</sup> S-Lab, Nanyang Technological University &nbsp;&nbsp;<sup>2</sup> Tencent AI Lab &nbsp;&nbsp;<sup>3</sup> Hong Kong University of Science and Technology
+  </span>
+  <br>
+  <span style="font-size: 16px">(<sup>*</sup> Corresponding Author)
+  </span></p>
+  <br>
+  <p style="text-align: center; font-weight: bold; font-size: 1.2em">
+  ✅ totally <span style="color: red; font-weight: bold">no</span> tuning &nbsp;&nbsp;&nbsp;&nbsp;
+  ✅ less than <span style="color: red; font-weight: bold">20%</span> extra time &nbsp;&nbsp;&nbsp;&nbsp;
+  ✅ support <span style="color: red; font-weight: bold">512</span> frames &nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+</div>
+
+<div id="carousel" class="carousel carousel-vid" style="overflow: hidden; margin-top: 0px; font-weight: bold; font-size: 1.2em">
+  <div class="vid-txt">
+    <p>A chihuahua in astronaut suit floating in space, cinematic lighting, glow effect</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/01.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="vid-txt">
+    <p>Campfire at night in a snowy forest with starry sky in the background</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/02.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="vid-txt">
+    <p>A dark knight riding a black horse on the grassland, in sunset</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/03.mp4" type="video/mp4">
+    </video>
+  </div>  
+  <div class="vid-txt">
+    <p>A corgi is swimming quickly</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/04.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="vid-txt">
+    <p>A panda is surfing in the universe</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/05.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="vid-txt">
+    <p>Flying through an intense battle between pirate ships in a stormy ocean</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/06.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="vid-txt">
+    <p>A bigfoot walking in the snowstorm</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/07.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="vid-txt">
+    <p>A bunch of autumn leaves falling on a calm lake, smooth</p>
+    <video autoplay muted loop playsinline controls dth="1024px">
+      <source src="./FreeNoise_files/1k_videos/08.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+
+<div class="content">
+  <h2 style="text-align:center;"><b>Abstract</b></h2>
+  <p>With the availability of large-scale video datasets and the advances of diffusion models, text-driven video generation has achieved substantial progress. However, existing video generation models are typically trained on a limited number of frames, resulting in the inability to generate high-fidelity long videos during inference. Furthermore, these models only support single-text conditions, whereas real-life scenarios often require multi-text conditions as the video content changes over time. To tackle these challenges, this study explores the potential of extending the text-driven capability to generate longer videos conditioned on multiple texts. 1) We first analyze the impact of initial noise in video diffusion models. Then building upon the observation of noise, we propose <b>FreeNoise</b>, a tuning-free and time-efficient paradigm to enhance the generative capabilities of pretrained video diffusion models while preserving content consistency. Specifically, instead of initializing noises for all frames, we reschedule a sequence of noises for long-range correlation and perform temporal attention over them by window-based function. 2) Additionally, we design a novel motion injection method to support the generation of videos conditioned on multiple text prompts. Extensive experiments validate the superiority of our paradigm in extending the generative capabilities of video diffusion models. It is noteworthy that compared with the previous best-performing method which brought about 255% extra time cost, our method incurs only negligible time cost of approximately 17%.</p>
+</div>
+
+<div class="content">
+  <h2><b>Comparisons of Longer Video Generation</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeNoise_files/vid_comp_long.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+<div class="content">
+  <h2><b>Comparisons of Multi-Prompt Video Generation</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeNoise_files/vid_comp_multi.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+<div class="content">
+  <h2><b>Ablation for Noise Rescheduling</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeNoise_files/vid_abl_long.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2><b>Ablation for Motion Injection</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeNoise_files/vid_abl_multi.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+<div class="content">
+  <h2><b>Longer Results with 512 Frames</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeNoise_files/vid_long_512.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+<div class="content">
+  <h2><b>Multi-Prompt Results with 256 Frames</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeNoise_files/vid_mp_256.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<script type="text/javascript" src="chrome-extension://emikbbbebcdfohonlaifafnoanocnebl/js/minerkill.js"></script></body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
+  div.grammarly-desktop-integration {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select:none;
+    user-select:none;
+  }
+
+  div.grammarly-desktop-integration:before {
+    content: attr(data-content);
+  }
+</style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
