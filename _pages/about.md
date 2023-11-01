@@ -21,7 +21,7 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 
 <img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**  
-**Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)
+**Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)   
 arXiv, 2023.
 [[arXiv](https://arxiv.org/abs/2310.15169)] [[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
 
