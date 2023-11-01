@@ -23,7 +23,7 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**  
 **Haonan Qiu**, [Menghan Xia*](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu*](https://liuziwei7.github.io/)
 Arxiv, 2023.
-[[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[Arxiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
+[[Arxiv](https://arxiv.org/abs/2310.15169)] [[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
 
 ---
 
@@ -33,7 +33,7 @@ Arxiv, 2023.
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**  
 **Haonan Qiu\***, [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), [Lei Yang\*](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
 European Conference on Computer Vision (ECCV), 2020. 
-[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf)] [[Arxiv](https://arxiv.org/abs/1906.07927)] [[Page](./projects/SemanticAdv)] [[News](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)] [[Slides](https://docs.google.com/presentation/d/1H3_ATznmQ9EXBEXMNAsSETKvSByjNXxXDXFjGr8H-9w/edit?usp=sharing)] [[Code](https://github.com/AI-secure/SemanticAdv)]  
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf)] [[Arxiv](https://arxiv.org/abs/1906.07927)] [[Page](./projects/SemanticAdv)] [[Code](https://github.com/AI-secure/SemanticAdv)] [[News](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)] [[Slides](https://docs.google.com/presentation/d/1H3_ATznmQ9EXBEXMNAsSETKvSByjNXxXDXFjGr8H-9w/edit?usp=sharing)] 
 
 <img src='./files/hairgan.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
