@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which supports my PhD research. 
 
-I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also worked closely with [Dr. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
+I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also worked closely with [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
 
 To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
