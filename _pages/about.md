@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which supports my PhD research. 
+I'm **Haonan Qiu (邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which supports my PhD research. 
 
 I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also worked closely with [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
 
@@ -63,11 +63,11 @@ Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd
 
 # Selected Honors
 
+* AISG PhD Fellowship 2022~2024
 * Dean’s List  2016, 2017, 2018
 * Undergraduate Research Award  2016, 2017, 2018
 * Undergraduate Student Teaching Fellow  2017, 2018
 * Academic Performance Scholarship  2018
-* Tencent WeChat Campus Card “Digital Star”  2017
 
 <!--
 ---
