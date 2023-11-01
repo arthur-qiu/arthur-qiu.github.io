@@ -14,6 +14,7 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
+<br/>
 
 ---
 
@@ -24,6 +25,7 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 **Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)   
 arXiv, 2023.
 [[arXiv](https://arxiv.org/abs/2310.15169)] [[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
+
 
 ---
 
