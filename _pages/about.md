@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. My research interests mainly focus on Deep Generative Models, Adversarial Machine Learning, and Forgery Detection. 
+I'm **Haonan Qiu(邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which support my PhD research. 
 
-I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also work closely with [Dr. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research on Adversarial Machine Learning.
+I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also worked closely with [Dr. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). We have done a lot of exciting research on Adversarial Machine Learning.
+
+To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
 
-<!--
-Here is more detailed information about me. <a href="./cv">[CV]</a>
--->
-
-<!--
 ---
 
 # Working Papers 
 
+<img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
+**Haonan Qiu**, [Menghan Xia*](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu*](https://liuziwei7.github.io/)
+Arxiv, 2023.
+[[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[Arxiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
+
 ---
--->
 
 # Selected Publications
 
@@ -44,10 +46,6 @@ Computer Graphics Forum (CGF), 2019.
 Mingjie Sun\*, Zichao Li\*, Chaowei Xiao\*, **Haonan Qiu**, Bhavya Kailkhura, Mingyan Liu, Bo Li  
 International Conference on Computer Vision (ICCV), 2021.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)]
-
-<!--
-Yingxin Wei, **Haonan Qiu**, Yuanhao Liu, Jingxin Du and [Man-On Pun](http://sse.cuhk.edu.cn/en/node/1435). **Unmanned Aerial Vehicle (UAV)-Assisted Unmanned Ground Vehicle (UGV) Systems Design, Implementation and Optimization**, accepted by IEEE International Conference on Computer and Communications (ICCC), 2017.
--->
 
 ---
 
