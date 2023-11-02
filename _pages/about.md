@@ -23,7 +23,7 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 **Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)   
 arXiv, 2023.
 [[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
-<br/>
+<br/><br/>
 
 ---
 
@@ -46,7 +46,7 @@ Computer Graphics Forum (CGF), 2019.
 [Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), **Haonan Qiu**, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Ziwei Liu](https://liuziwei7.github.io/)
 ACM Transactions on Graphics (TOG), 2022.
 [[Page](https://yumingj.github.io/projects/Text2Human.html)] [[arXiv](https://arxiv.org/pdf/2205.15996.pdf)] [[Dataset](https://github.com/yumingj/DeepFashion-MultiModal)] [[Video](https://youtu.be/yKh4VORA_E0)] [[Demo](https://huggingface.co/spaces/CVPR/Text2Human)]
-<br/>
+<br/><br/>
 
 <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**  
