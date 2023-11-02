@@ -19,8 +19,7 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 # Working Papers 
 
 <img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**  
-
+**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**<br/>  
 **Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)   
 arXiv, 2023.
 [[Project Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
@@ -31,29 +30,25 @@ arXiv, 2023.
 # Selected Publications
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**  
-
+**SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**<br/>  
 **Haonan Qiu\***, [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), [Lei Yang\*](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
 European Conference on Computer Vision (ECCV), 2020. 
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf)] [[Project Page](./projects/SemanticAdv)] [[Code](https://github.com/AI-secure/SemanticAdv)] [[News](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)] [[Slides](https://docs.google.com/presentation/d/1H3_ATznmQ9EXBEXMNAsSETKvSByjNXxXDXFjGr8H-9w/edit?usp=sharing)] 
 
 <img src='./files/hairgan.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**  
-
+**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**<br/>  
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 Computer Graphics Forum (CGF), 2019.
 [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13847)] [[arXiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
 
 <img src='./files/text2human.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**Text2Human: Text-Driven Controllable Human Image Generation**
-
+**Text2Human: Text-Driven Controllable Human Image Generation**<br/>
 [Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), **Haonan Qiu**, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Ziwei Liu](https://liuziwei7.github.io/)
 ACM Transactions on Graphics (TOG), 2022.
 [[Project Page](https://yumingj.github.io/projects/Text2Human.html)] [[arXiv](https://arxiv.org/pdf/2205.15996.pdf)] [[Dataset](https://github.com/yumingj/DeepFashion-MultiModal)] [[Video](https://youtu.be/yKh4VORA_E0)] [[Demo](https://huggingface.co/spaces/CVPR/Text2Human)]
 
 <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**  
-
+**Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**<br/>  
 Mingjie Sun\*, Zichao Li\*, Chaowei Xiao\*, **Haonan Qiu**, Bhavya Kailkhura, Mingyan Liu, Bo Li  
 International Conference on Computer Vision (ICCV), 2021.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)]
