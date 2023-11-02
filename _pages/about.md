@@ -22,7 +22,7 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**  
 **Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)   
 arXiv, 2023.
-[[arXiv](https://arxiv.org/abs/2310.15169)] [[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
+[[Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
 
 <br/>
 
@@ -41,6 +41,12 @@ European Conference on Computer Vision (ECCV), 2020.
 **Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)  
 Computer Graphics Forum (CGF), 2019.
 [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13847)] [[arXiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
+
+<img src='./files/text2human.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**Text2Human: Text-Driven Controllable Human Image Generation**
+[Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), **Haonan Qiu**, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Ziwei Liu](https://liuziwei7.github.io/)
+ACM Transactions on Graphics (TOG), 2022.
+[[Page](https://yumingj.github.io/projects/Text2Human.html)] [[arXiv](https://arxiv.org/pdf/2205.15996.pdf)] [[Dataset](https://github.com/yumingj/DeepFashion-MultiModal)] [[Video](https://youtu.be/yKh4VORA_E0)] [[Demo](https://huggingface.co/spaces/CVPR/Text2Human)]
 
 <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**  
