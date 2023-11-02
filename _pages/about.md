@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Haonan Qiu (邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which supports my PhD research. 
 
-I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](http://www.crystal-boli.com/) in UIUC remotely. I also worked closely with [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
+I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](https://aisecure.github.io/) in UIUC remotely. I also worked closely with [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
 
 To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings. 
 
@@ -31,7 +31,7 @@ arXiv, 2023.
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**     
-**Haonan Qiu\***, [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), [Lei Yang\*](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](http://www.crystal-boli.com/)  
+**Haonan Qiu\***, [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), [Lei Yang\*](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](https://aisecure.github.io/)  
 European Conference on Computer Vision (ECCV), 2020.
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf)] [[Project Page](./projects/SemanticAdv)] [[Code](https://github.com/AI-secure/SemanticAdv)] [[News](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)] [[Slides](https://docs.google.com/presentation/d/1H3_ATznmQ9EXBEXMNAsSETKvSByjNXxXDXFjGr8H-9w/edit?usp=sharing)] 
 
@@ -49,7 +49,7 @@ ACM Transactions on Graphics (TOG), 2022.
 
 <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**   
-[Mingjie Sun\*](https://eric-mingjie.github.io/), [Zichao Li\*](https://zichaoli.github.io/), [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), **Haonan Qiu**, [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en), [Mingyan Liu](https://liu.engin.umich.edu/), [Bo Li](http://www.crystal-boli.com/)   
+[Mingjie Sun\*](https://eric-mingjie.github.io/), [Zichao Li\*](https://zichaoli.github.io/), [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), **Haonan Qiu**, [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en), [Mingyan Liu](https://liu.engin.umich.edu/), [Bo Li](https://aisecure.github.io/)   
 International Conference on Computer Vision (ICCV), 2021.
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)]
 
@@ -59,7 +59,7 @@ International Conference on Computer Vision (ICCV), 2021.
 
 Research Consultant, at [SenseTime](https://www.sensetime.com/),  Nov 2020 - July 2021
 
-Research Intern, Remotely Corporate With [Prof. Bo Li](http://www.crystal-boli.com/) at UIUC,  May 2019 - Nov 2020
+Research Intern, Remotely Corporate With [Prof. Bo Li](https://aisecure.github.io/) at UIUC,  May 2019 - Nov 2020
 
 Research Intern, at [SenseTime](https://www.sensetime.com/),  Sep 2018 - May 2019 
 
