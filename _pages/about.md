@@ -16,24 +16,31 @@ To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like 
 
 ---
 
-# Working Papers 
+<!-- # Working Papers  -->
 
-<img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**    
-**Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)    
-arXiv, 2023.
-[[Project Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
-<br/><br/>
+<!-- <br/><br/> -->
 
 ---
 
 # Selected Publications
+
+<img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**    
+**Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)    
+International Conference on Learning Representations (ICLR), 2024.
+[[Project Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/arthur-qiu/LongerCrafter)]
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**     
 **Haonan Qiu\***, [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), [Lei Yang\*](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Xinchen Yan](https://sites.google.com/site/skywalkeryxc/), [Honglak Lee](http://web.eecs.umich.edu/~honglak/), [Bo Li](https://aisecure.github.io/)  
 European Conference on Computer Vision (ECCV), 2020.
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590018.pdf)] [[Project Page](./projects/SemanticAdv)] [[Code](https://github.com/AI-secure/SemanticAdv)] [[News](https://syncedreview.com/2019/08/09/semantic-based-adversarial-examples-fool-face-recognition/)] [[Slides](https://docs.google.com/presentation/d/1H3_ATznmQ9EXBEXMNAsSETKvSByjNXxXDXFjGr8H-9w/edit?usp=sharing)] 
+
+<img src='./files/relitalk.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**ReliTalk: Relightable Talking Portrait Generation from a Single Video**     
+**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io), [Yuming Jiang](https://yumingj.github.io/), [Hang Zhou](https://hangz-nju-cuhk.github.io/), [Wayne Wu](https://wywu.github.io/), [Xiangyu Fan](https://github.com/arthur-qiu/ReliTalk), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Ziwei Liu](https://liuziwei7.github.io/)    
+International Journal of Computer Vision (IJCV), 2024.
+[[Project Page](http://haonanqiu.com/projects/ReliTalk.html)] [[arXiv](https://arxiv.org/abs/2309.02434)] [[Code](https://github.com/arthur-qiu/ReliTalk)]
 
 <img src='./files/hairgan.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**   
@@ -47,11 +54,11 @@ Computer Graphics Forum (CGF), 2019.
 ACM Transactions on Graphics (TOG), 2022.
 [[Project Page](https://yumingj.github.io/projects/Text2Human.html)] [[arXiv](https://arxiv.org/pdf/2205.15996.pdf)] [[Dataset](https://github.com/yumingj/DeepFashion-MultiModal)] [[Video](https://youtu.be/yKh4VORA_E0)] [[Demo](https://huggingface.co/spaces/CVPR/Text2Human)]
 
-<img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+<!-- <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**   
 [Mingjie Sun\*](https://eric-mingjie.github.io/), [Zichao Li\*](https://zichaoli.github.io/), [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), **Haonan Qiu**, [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en), [Mingyan Liu](https://liu.engin.umich.edu/), [Bo Li](https://aisecure.github.io/)   
 International Conference on Computer Vision (ICCV), 2021.
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)] -->
 
 ---
 
