@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "=228"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -26,4 +27,3 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem "github-pages", "=228"
