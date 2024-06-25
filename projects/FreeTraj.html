@@ -14,7 +14,6 @@
 <body data-new-gr-c-s-check-loaded="14.1117.0" data-gr-ext-installed="">
 <div class="content">
   <h1><strong>FreeTraj: Tuning-Free Trajectory Control <br> in Video Diffusion Models</strong></h1>
-  <p style="text-align: center; font-weight: bold; font-size: 1.2em">ICLR 2024</p>
   <p id="authors"><a href="http://haonanqiu.com/"><b>Haonan Qiu<sup>1</sup></b></a> <a href="https://frozenburning.github.io/"><b>Zhaoxi Chen<sup>1</sup></b></a> <a href="http://luoping.me/author/zhouxia-wang/"><b>Zhouxia Wang<sup>1</sup></b></a></p>
   <p id="authors"><a href="https://github.com/YingqingHe"><b>Yingqing He<sup>2</sup></b></a> <a href="https://menghanxia.github.io"><b>Menghan Xia<sup>*3</sup></b></a> <a href="https://liuziwei7.github.io/"><b>Ziwei Liu<sup>*1</sup></b></a><br>
   <br>
@@ -236,7 +235,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Noise resampling of initial high-frequency components.</b></h2>
+  <h2><b>Noise resampling of initial high-frequency components</b></h2>
   <p>Gradually increasing the proportion of resampled high-frequency information in the frame-wise shared noises can significantly reduce the artifact in the generated video. However, this also leads to a gradual loss in trajectory control ability. A resampling percentage of 75% strikes a better balance between maintaining control and improving the quality of the generated video.
   </p>
   <h3>Top-left to bottom-right</h3>
@@ -260,7 +259,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Trajectory control via frame-wise shared low-frequency noise.</b></h2>
+  <h2><b>Trajectory control via frame-wise shared low-frequency noise</b></h2>
   <p>The success cases on the left demonstrate that the moving objects in the generated videos can be roughly controlled by sharing low-frequent noise across the bounding boxes of the given trajectory. However, the precision of control and success rate remains somewhat constrained, as evidenced by the failure instances on the right.
   </p>
   <div style="text-align: center;">
@@ -275,7 +274,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Attention isolation in temporal dimension.</b></h2>
+  <h2><b>Attention isolation in temporal dimension</b></h2>
   <p>Compared to normal sampling for initial noises (left), partial repeated sampling will lead to significant attention isolation in the temporal dimension and bring strong artifacts (mid). When calculating the attention weights received by isolated frames, manually splitting a portion of attention weights from isolated frames to other frames will remove artifacts (right).
   </p>
   <div style="text-align: center;">
@@ -290,7 +289,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Comparisons of trajectory control.</b></h2>
+  <h2><b>Comparisons of trajectory control</b></h2>
   <div style="text-align: center;">
   <video width="960" autoplay muted loop playsinline>
     <!-- Your video file here -->
@@ -302,7 +301,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Ablation results.</b></h2>
+  <h2><b>Ablation results</b></h2>
   <div style="text-align: center;">
   <video width="960" autoplay muted loop playsinline>
     <!-- Your video file here -->
@@ -314,7 +313,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Longer video generation.</b></h2>
+  <h2><b>Longer video generation</b></h2>
   <div style="text-align: center;">
   <video width="960" autoplay muted loop playsinline>
     <!-- Your video file here -->
@@ -326,7 +325,7 @@
 </div>
 
 <div class="content">
-  <h2><b>Larger video generation.</b></h2>
+  <h2><b>Larger video generation</b></h2>
   <div style="text-align: center;">
   <video width="960" autoplay muted loop playsinline>
     <!-- Your video file here -->
@@ -358,7 +357,6 @@
       year={2024},
       eprint={2406.16863},
       archivePrefix={arXiv}
-}
   }</code>
 </pre>
 </div>
