@@ -16,7 +16,8 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 <!-- To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings.  -->
 
-<!-- --- -->
+
+---
 
 # Working Papers
 
