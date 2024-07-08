@@ -23,7 +23,7 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 <img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
-**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), and [Ziwei Liu](https://liuziwei7.github.io/)    
+**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
 arXiv, 2024.
 [[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]
 
