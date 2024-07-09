@@ -25,8 +25,9 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
 **Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
 arXiv, 2024.
-[[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]
-</br>
+[[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]  
+
+<br>
 
 ---
 
@@ -36,7 +37,7 @@ arXiv, 2024.
 **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**    
 **Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)    
 International Conference on Learning Representations (ICLR), 2024.
-[[Project Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/AILab-CVC/FreeNoise)]
+[[Project Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/AILab-CVC/FreeNoise)] 
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing**     
