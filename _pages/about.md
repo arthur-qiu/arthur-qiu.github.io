@@ -12,7 +12,7 @@ I'm **Haonan Qiu (邱浩楠)**, a PhD student at NTU SCSE department, supervised
 
 I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](https://aisecure.github.io/) in UIUC remotely. I also worked closely with [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
 
-<font color='red'> I am actively pursuing research opportunities to advance cutting-edge video diffusion models, aiming to create stunning movies using simple scripts. </font>
+<font color='red'> I am actively pursuing research opportunities/collaborations to advance cutting-edge video diffusion models. </font>
 
 <!-- To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings.  -->
 
@@ -26,7 +26,6 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 **Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
 arXiv, 2024.
 [[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]  
-
 <br>
 
 ---
