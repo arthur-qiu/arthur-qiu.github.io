@@ -13,7 +13,7 @@
 
 <body data-new-gr-c-s-check-loaded="14.1117.0" data-gr-ext-installed="">
 <div class="content">
-  <h1><strong>FreeTraj: Tuning-Free Trajectory Control <br> in Video Diffusion Models</strong></h1>
+  <h1><strong>FreeTraj: Tuning-Free Trajectory Control <br> via Noise Guided Video Diffusion</strong></h1>
   <p id="authors"><a href="http://haonanqiu.com/"><b>Haonan Qiu<sup>1</sup></b></a> <a href="https://frozenburning.github.io/"><b>Zhaoxi Chen<sup>1</sup></b></a> <a href="http://luoping.me/author/zhouxia-wang/"><b>Zhouxia Wang<sup>1</sup></b></a></p>
   <p id="authors"><a href="https://github.com/YingqingHe"><b>Yingqing He<sup>2</sup></b></a> <a href="https://menghanxia.github.io"><b>Menghan Xia<sup>*3</sup></b></a> <a href="https://liuziwei7.github.io/"><b>Ziwei Liu<sup>*1</sup></b></a><br>
   <br>
@@ -31,207 +31,133 @@
   <br>
 </div>
 
-<!-- <div id="carousel" class="carousel carousel-vid" style="overflow: hidden; margin-top: 0px; font-weight: bold; font-size: 1.2em">
-  <div class="vid-txt">
-    <p>A chihuahua in an astronaut suit floating in the universe, cinematic lighting, glow effect.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0047_1_0.4_0.3.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A deer walking in a snowy field.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0023_1_0.3_0.35.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A fox running in a forest clearing.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0025_0_0.35_0.3.mp4" type="video/mp4">
-    </video>
-  </div>  
-  <div class="vid-txt">
-    <p>A swan floating gracefully on a lake.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0026_0_0.4_0.4.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A panda walking and munching bamboo in a bamboo forest.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0027_1_0.4_0.4.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A kangaroo jumping in the Australian outback.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0033_0_0.4_0.35.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A corgi running on the grassland on the grassland.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0035_1_0.35_0.35.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A dog running across the garden, photorealistic, 4k.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0041_0_0.35_0.35.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A helicopter hovering above a cityscape.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0019_0_0.3_0.3.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A horse galloping through a meadow.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0049_1_0.3_0.35.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A barrel floating in a river.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0051_1_0.4_0.4.mp4" type="video/mp4">
-    </video>
-  </div>
-  <div class="vid-txt">
-    <p>A bald eagle flying in the blue sky.</p>
-    <video autoplay muted loop playsinline controls dth="512px">
-      <source src="./FreeTraj_files/demo_videos/0056_0_0.4_0.35.mp4" type="video/mp4">
-    </video>
-  </div>
-</div>
- -->
-
 <section class="hero">
   <div class="is-max-desktop">
     <div class="marquee-wrapper">
-        <div class="marquee-block">
-          <div class="marquee-inner to-left">
-            <span>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0047_1_0.4_0.3.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A chihuahua</c> in an astronaut suit floating in the universe, cinematic lighting, glow effect. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0023_1_0.3_0.35.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A deer</c> walking in a snowy field. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0025_0_0.35_0.3.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A fox</c> running in a forest clearing. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0026_0_0.4_0.4.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A swan</c> floating gracefully on a lake. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0027_1_0.4_0.4.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A panda</c> walking and munching bamboo in a bamboo forest. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0033_0_0.4_0.35.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A kangaroo</c> jumping in the Australian outback. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0035_1_0.35_0.35.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A corgi</c> running on the grassland on the grassland. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0041_0_0.35_0.35.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A dog</c> running across the garden, photorealistic, 4k. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0049_1_0.3_0.35.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A horse</c> galloping through a meadow. </p>
-              </div>
-            </span>
-            <span>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0051_1_0.4_0.4.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A barrel</c> floating in a river. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0056_0_0.4_0.35.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A bald eagle</c> flying in the blue sky. </p>
-              </div>
-              <div class="marquee-item">
-                <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
-                  <!-- Your video file here -->
-                  <source src="./FreeTraj_files/demo_videos/0019_0_0.3_0.3.mp4"
-                  type="video/mp4">
-                sorry, your browser does not support HTML5 Videos.
-                </video>
-                <p class="text-white"> <c>A helicopter</c> hovering above a cityscape. </p>
-              </div>
-            </span>
+      <div class="marquee-block">
+        <div class="marquee-inner to-left">
+          <span>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0047_1_0.4_0.3.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A chihuahua</c> in an astronaut suit floating in the universe, cinematic lighting, glow effect. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0023_1_0.3_0.35.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A deer</c> walking in a snowy field. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0025_0_0.35_0.3.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A fox</c> running in a forest clearing. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0026_0_0.4_0.4.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A swan</c> floating gracefully on a lake. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0038_1_0.4_0.3.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A knight</c> riding a horse on a race course. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0027_1_0.4_0.4.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A panda</c> walking and munching bamboo in a bamboo forest. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0035_1_0.35_0.35.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A corgi</c> running on the grassland on the grassland. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0010_1_0.4_0.3.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A leaf</c> falling gently from a tree. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0049_1_0.3_0.35.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A horse</c> galloping through a meadow. </p>
+            </div>
+          </span>
+          <span>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0051_1_0.4_0.4.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A barrel</c> floating in a river. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0056_0_0.4_0.35.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A bald eagle</c> flying in the blue sky. </p>
+            </div>
+            <div class="marquee-item">
+              <video onloadstart="this.playbackRate = 0.75;" poster="" id="video1" autoplay muted loop playsinline controls height="100%">
+                <!-- Your video file here -->
+                <source src="./FreeTraj_files/demo_videos/0019_0_0.3_0.3.mp4"
+                type="video/mp4">
+              sorry, your browser does not support HTML5 Videos.
+              </video>
+              <p class="text-white"> <c>A helicopter</c> hovering above a cityscape. </p>
+            </div>
+          </span>
         </div>
+      </div>
     </div>
-  </section>
+  </div>
+</section>
 
 
 <div class="content">
   <h2 style="text-align:center;"><b>Abstract</b></h2>
-  <p>Diffusion model has demonstrated remarkable capability in video generation, which further sparks interest in introducing trajectory control into the generation process. While existing works mainly focus on training-based methods (<em>e.g.</em>, conditional adapter), we argue that diffusion model itself allows decent control over the generated content without requiring any training. In this study, we introduce a tuning-free framework to achieve trajectory-controllable video generation, by imposing guidance on both noise construction and attention computation. Specifically, 1) we first show several instructive phenomenons and analyze how initial noises influence the motion trajectory of generated content. 2) Subsequently, we propose <b>FreeTraj</b>, a tuning-free approach that enables trajectory control by modifying noise sampling and attention mechanisms. 3) Furthermore, we extend FreeTraj to facilitate longer and larger video generation with controllable trajectories. Equipped with these designs, users have the flexibility to provide trajectories manually or opt for trajectories automatically generated by the LLM trajectory planner. Extensive experiments validate the efficacy of our approach in enhancing the trajectory controllability of video diffusion models.</p>
+  <p>Diffusion model has demonstrated remarkable capability in video generation, which further sparks interest in introducing trajectory control into the generation process. While existing works mainly focus on training-based methods (<em>e.g.</em>, conditional adapter), we argue that diffusion model itself allows decent control over the generated content without requiring any training. In this study, we introduce a tuning-free framework to achieve trajectory-controllable video generation, by imposing guidance on both noise construction and attention computation. Specifically, 1) we first show several instructive phenomena and analyze how initial noises influence the motion trajectory of generated content. 2) Subsequently, we propose <b>FreeTraj</b>, a tuning-free approach that enables trajectory control by modifying noise sampling and attention mechanisms. 3) Furthermore, we extend FreeTraj to facilitate longer and larger video generation with controllable trajectories. Equipped with these designs, users have the flexibility to provide trajectories manually or opt for trajectories automatically generated by the LLM trajectory planner. Extensive experiments validate the efficacy of our approach in enhancing the trajectory controllability of video diffusion models.</p>
 </div>
 
 <div class="content">
@@ -252,6 +178,15 @@
   <video width="960" autoplay muted loop playsinline>
     <!-- Your video file here -->
     <source src="./FreeTraj_files/vid_globalnoise_re.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+  <h3>Top-left to bottom-right (AnimateDiff)</h3>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeTraj_files/vid_globalnoise_animate.mp4"
     type="video/mp4">
   sorry, your browser does not support HTML5 Videos.
   </video>
@@ -301,6 +236,18 @@
 </div>
 
 <div class="content">
+  <h2><b>Results with short movements</b></h2>
+  <div style="text-align: center;">
+  <video width="960" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./FreeTraj_files/vid_shortmove.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+<div class="content">
   <h2><b>Ablation results</b></h2>
   <div style="text-align: center;">
   <video width="960" autoplay muted loop playsinline>
@@ -317,7 +264,7 @@
   <div style="text-align: center;">
   <video width="960" autoplay muted loop playsinline>
     <!-- Your video file here -->
-    <source src="./FreeTraj_files/vid_long.mp4"
+    <source src="./FreeTraj_files/vid_longer.mp4"
     type="video/mp4">
   sorry, your browser does not support HTML5 Videos.
   </video>
