@@ -50,7 +50,7 @@ International Conference on Learning Representations (ICLR), 2024.
 <img src='./files/teacache.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
 **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**    
 [Feng Liu](https://liewfeng.github.io), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Xiaofeng Wang](https://jeffwang987.github.io), [Yujie Wei](https://weilllllls.github.io), **Haonan Qiu**, [Yuzhong Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main), [Yingya Zhang](https://scholar.google.com.sg/citations?user=16RDSEUAAAAJ), [Qixiang Ye](https://scholar.google.com/citations?user=tjEfgsEAAAAJ&hl=en&oi=ao), [Fang Wan](https://scholar.google.com/citations?user=0IKavloAAAAJ&hl=en&oi=ao)     
-Computer Vision and Pattern Recognition (CVPR), 2024.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 [[Project Page](https://liewfeng.github.io/TeaCache/)] [[arXiv](https://arxiv.org/abs/2411.19108)] [[Code](https://github.com/ali-vilab/TeaCache)]  
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
