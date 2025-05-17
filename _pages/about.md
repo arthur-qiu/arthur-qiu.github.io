@@ -10,9 +10,11 @@ redirect_from:
 
 I'm **Haonan Qiu (邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which supports my PhD research. 
 
-I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](https://aisecure.github.io/) in UIUC remotely. I also worked closely with [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
+I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](https://aisecure.github.io/) and [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
 
-<font color='red'> I am actively pursuing research opportunities/collaborations to advance cutting-edge video diffusion models. </font>
+<font color='red'> I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
+
+<!-- <font color='red'> I am actively pursuing research opportunities/collaborations to advance cutting-edge video diffusion models. </font> -->
 
 <!-- To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings.  -->
 
@@ -23,7 +25,7 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 <img src='./files/freescale.jpg' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
-**Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), and [Ziwei Liu†](https://liuziwei7.github.io/)      
+**Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)      
 arXiv, 2024.
 [[Project Page](http://haonanqiu.com/projects/FreeScale.html)] [[arXiv](https://arxiv.org/abs/2412.09626)] [[Code](https://github.com/ali-vilab/FreeScale)]  
 
@@ -45,7 +47,7 @@ arXiv, 2024.
 International Conference on Learning Representations (ICLR), 2024.
 [[Project Page](http://haonanqiu.com/projects/FreeNoise.html)] [[arXiv](https://arxiv.org/abs/2310.15169)] [[Code](https://github.com/AILab-CVC/FreeNoise)] 
 
-<img src='./files/teacache.jpg' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+<img src='./files/teacache.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
 **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**    
 [Feng Liu](https://liewfeng.github.io), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Xiaofeng Wang](https://jeffwang987.github.io), [Yujie Wei](https://weilllllls.github.io), **Haonan Qiu**, [Yuzhong Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main), [Yingya Zhang](https://scholar.google.com.sg/citations?user=16RDSEUAAAAJ), [Qixiang Ye](https://scholar.google.com/citations?user=tjEfgsEAAAAJ&hl=en&oi=ao), [Fang Wan](https://scholar.google.com/citations?user=0IKavloAAAAJ&hl=en&oi=ao)     
 Computer Vision and Pattern Recognition (CVPR), 2024.
