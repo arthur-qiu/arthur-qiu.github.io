@@ -25,7 +25,7 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 <img src='./files/freescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
 **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
-**Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), and [Ziwei Liu](https://liuziwei7.github.io/)      
+**Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)      
 arXiv, 2024.
 [[Project Page](http://haonanqiu.com/projects/FreeScale.html)] [[arXiv](https://arxiv.org/abs/2412.09626)] [[Code](https://github.com/ali-vilab/FreeScale)]  
 
@@ -73,7 +73,7 @@ Computer Graphics Forum (CGF), 2019.
 
 <img src='./files/text2human.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Text2Human: Text-Driven Controllable Human Image Generation**   
-[Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), **Haonan Qiu**, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Ziwei Liu](https://liuziwei7.github.io/)   
+[Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), **Haonan Qiu**, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Ziwei Liu](https://liuziwei7.github.io/)   
 ACM Transactions on Graphics (TOG), 2022.
 [[Project Page](https://yumingj.github.io/projects/Text2Human.html)] [[arXiv](https://arxiv.org/pdf/2205.15996.pdf)] [[Dataset](https://github.com/yumingj/DeepFashion-MultiModal)] [[Video](https://youtu.be/yKh4VORA_E0)] [[Demo](https://huggingface.co/spaces/CVPR/Text2Human)]
 
