@@ -23,12 +23,6 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 # Working Papers
 
-<img src='./files/freescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
-**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
-**Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)      
-arXiv, 2024.
-[[Project Page](http://haonanqiu.com/projects/FreeScale.html)] [[arXiv](https://arxiv.org/abs/2412.09626)] [[Code](https://github.com/ali-vilab/FreeScale)]  
-
 <img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
 **Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
@@ -41,6 +35,12 @@ arXiv, 2024.
 
 # Selected Publications
 
+<img src='./files/freescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
+**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
+**Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)      
+International Conference on Computer Vision (ICCV), 2025.
+[[Project Page](http://haonanqiu.com/projects/FreeScale.html)] [[arXiv](https://arxiv.org/abs/2412.09626)] [[Code](https://github.com/ali-vilab/FreeScale)]  
+
 <img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**    
 **Haonan Qiu**, [Menghan Xia](https://menghanxia.github.io), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Xintao Wang](https://xinntao.github.io), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)    
@@ -50,7 +50,7 @@ International Conference on Learning Representations (ICLR), 2024.
 <img src='./files/teacache.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
 **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**    
 [Feng Liu](https://liewfeng.github.io), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Xiaofeng Wang](https://jeffwang987.github.io), [Yujie Wei](https://weilllllls.github.io), **Haonan Qiu**, [Yuzhong Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main), [Yingya Zhang](https://scholar.google.com.sg/citations?user=16RDSEUAAAAJ), [Qixiang Ye](https://scholar.google.com/citations?user=tjEfgsEAAAAJ&hl=en&oi=ao), [Fang Wan](https://scholar.google.com/citations?user=0IKavloAAAAJ&hl=en&oi=ao)     
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR Oral), 2024.
 [[Project Page](https://liewfeng.github.io/TeaCache/)] [[arXiv](https://arxiv.org/abs/2411.19108)] [[Code](https://github.com/ali-vilab/TeaCache)]  
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
