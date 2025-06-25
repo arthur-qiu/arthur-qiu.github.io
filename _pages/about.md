@@ -14,11 +14,6 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 <font color='red'> I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
 
-<!-- <font color='red'> I am actively pursuing research opportunities/collaborations to advance cutting-edge video diffusion models. </font> -->
-
-<!-- To junior PhD/master/undergraduate students at CUHKSZ or NTU: if you would like to chat about life, career plans, or research ideas related to AIGC, feel free to email me to schedule a meeting. I will dedicate 30 mins every week for such meetings.  -->
-
-
 ---
 
 # Working Papers
@@ -50,7 +45,7 @@ International Conference on Learning Representations (ICLR), 2024.
 <img src='./files/teacache.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
 **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**    
 [Feng Liu](https://liewfeng.github.io), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Xiaofeng Wang](https://jeffwang987.github.io), [Yujie Wei](https://weilllllls.github.io), **Haonan Qiu**, [Yuzhong Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main), [Yingya Zhang](https://scholar.google.com.sg/citations?user=16RDSEUAAAAJ), [Qixiang Ye](https://scholar.google.com/citations?user=tjEfgsEAAAAJ&hl=en&oi=ao), [Fang Wan](https://scholar.google.com/citations?user=0IKavloAAAAJ&hl=en&oi=ao)     
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR Oral), 2024.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 [[Project Page](https://liewfeng.github.io/TeaCache/)] [[arXiv](https://arxiv.org/abs/2411.19108)] [[Code](https://github.com/ali-vilab/TeaCache)]  
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
