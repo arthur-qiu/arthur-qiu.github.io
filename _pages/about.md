@@ -45,7 +45,7 @@ International Conference on Learning Representations (ICLR), 2024.
 <img src='./files/teacache.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
 **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**    
 [Feng Liu](https://liewfeng.github.io), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Xiaofeng Wang](https://jeffwang987.github.io), [Yujie Wei](https://weilllllls.github.io), **Haonan Qiu**, [Yuzhong Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main), [Yingya Zhang](https://scholar.google.com.sg/citations?user=16RDSEUAAAAJ), [Qixiang Ye](https://scholar.google.com/citations?user=tjEfgsEAAAAJ&hl=en&oi=ao), [Fang Wan](https://scholar.google.com/citations?user=0IKavloAAAAJ&hl=en&oi=ao)     
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 [[Project Page](https://liewfeng.github.io/TeaCache/)] [[arXiv](https://arxiv.org/abs/2411.19108)] [[Code](https://github.com/ali-vilab/TeaCache)]  
 
 <img src='./files/semanticadv.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
@@ -71,12 +71,6 @@ Computer Graphics Forum (CGF), 2019.
 [Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), **Haonan Qiu**, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), [Ziwei Liu](https://liuziwei7.github.io/)   
 ACM Transactions on Graphics (TOG), 2022.
 [[Project Page](https://yumingj.github.io/projects/Text2Human.html)] [[arXiv](https://arxiv.org/pdf/2205.15996.pdf)] [[Dataset](https://github.com/yumingj/DeepFashion-MultiModal)] [[Video](https://youtu.be/yKh4VORA_E0)] [[Demo](https://huggingface.co/spaces/CVPR/Text2Human)]
-
-<!-- <img src='./files/edgerob.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?**   
-[Mingjie Sun\*](https://eric-mingjie.github.io/), [Zichao Li\*](https://zichaoli.github.io/), [Chaowei Xiao\*](http://www-personal.umich.edu/~xiaocw/), **Haonan Qiu**, [Bhavya Kailkhura](https://scholar.google.com/citations?user=SQpJmOgAAAAJ&hl=en), [Mingyan Liu](https://liu.engin.umich.edu/), [Bo Li](https://aisecure.github.io/)   
-International Conference on Computer Vision (ICCV), 2021.
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Can_Shape_Structure_Features_Improve_Model_Robustness_Under_Diverse_Adversarial_ICCV_2021_paper.pdf)] -->
 
 ---
 
