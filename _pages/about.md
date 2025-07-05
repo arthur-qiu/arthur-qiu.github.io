@@ -97,5 +97,5 @@ Research Assistant in [Shenzhen Research Institute of Big Data](http://www.sribd
 <!--
 ---
 # CV
-<iframe id='cv' src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
+<iframe id='cv' src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/haonanqiu_cv.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
 -->
