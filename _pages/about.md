@@ -24,7 +24,7 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 arXiv, 2025.
 [[Project Page](https://eyeline-labs.github.io/CineScale/)] [[arXiv](https://arxiv.org/abs/2508.15774)] [[Code](https://github.com/Eyeline-Labs/CineScale)]  
 
-<img src='./files/freetraj.gif' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
+<img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
 **Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
 arXiv, 2024.
@@ -36,7 +36,7 @@ arXiv, 2024.
 
 # Selected Publications
 
-<img src='./files/freescale.jpg' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+<img src='./files/freescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
 **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
 **Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)      
 International Conference on Computer Vision (ICCV), 2025.
