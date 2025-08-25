@@ -18,6 +18,12 @@ I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen
 
 # Working Papers
 
+<img src='./files/cinescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
+**CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**    
+**Haonan Qiu**, [Ning Yu](https://ningyu1991.github.io/), [Ziqi Huang](https://ziqihuangg.github.io/), [Paul Debevec](https://www.pauldebevec.com/), [Ziwei Liu](https://liuziwei7.github.io/)    
+arXiv, 2025.
+[[Project Page](https://eyeline-labs.github.io/CineScale/)] [[arXiv](https://arxiv.org/abs/2508.15774)] [[Code](https://github.com/Eyeline-Labs/CineScale)]  
+
 <img src='./files/freetraj.gif' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
 **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
 **Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
