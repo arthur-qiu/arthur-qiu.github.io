@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu (邱浩楠)**, a PhD student at NTU SCSE department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC), Adversarial Machine Learning, and Forgery Detection. I feel very honored to receive [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), which supports my PhD research. 
+I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC). I have worked on var- ious research topics related to video diffusion models, including longer video generation, higher-resolution generation, efficient generation, motion control, and ID personalization.
 
-I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. I used to thoroughly explore many aspects of Adversarial Machine Learning, supervised by [Prof. Bo Li](https://aisecure.github.io/) and [Prof. Chaowei Xiao](http://www-personal.umich.edu/~xiaocw/). 
+Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. <font color='red'> 
 
-<font color='red'> I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
+I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
 
 ---
 
