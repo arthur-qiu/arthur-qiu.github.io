@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC). I have worked on var- ious research topics related to video diffusion models, including longer video generation, higher-resolution generation, efficient generation, motion control, and ID personalization.
+I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC). I have worked on various research topics related to video diffusion models, including longer video generation, higher-resolution generation, efficient generation, motion control, and ID personalization.
 
-Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. <font color='red'> 
+Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. 
 
-I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
+<font color='red'> I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
 
 ---
 
@@ -81,6 +81,8 @@ ACM Transactions on Graphics (TOG), 2022.
 ---
 
 # Research Experience
+
+Previous Industrial Cooperation: Netflix Eyeline Studios, Alibaba Tongyi Lab, Tencent AI Lab
 
 Research Consultant, at [SenseTime](https://www.sensetime.com/),  Nov 2020 - July 2021
 
