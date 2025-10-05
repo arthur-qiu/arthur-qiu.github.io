@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC). I have worked on various research topics related to video diffusion models, including longer video generation, higher-resolution generation, efficient generation, motion control, and ID personalization.
+I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My research interests mainly focus on Artificial Intelligence Generated Content (AIGC). I have worked on various research topics related to video diffusion models, including longer video generation, high-resolution visual generation, efficient generation, motion control, and customized generation.
 
 Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. 
 
