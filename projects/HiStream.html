@@ -1,0 +1,173 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>HiStream</title>
+<link rel="stylesheet" href="./HiStream_files/css/bootstrap.min.css">
+<link rel="stylesheet" href="./HiStream_files/css/dics.min.css">
+<link rel="stylesheet" href="./HiStream_files/css/bulma.min.css">
+<link rel="stylesheet" href="./HiStream_files/css/bulma-carousel.min.css">
+<link rel="stylesheet" href="./HiStream_files/css/index.css">
+<link rel="stylesheet" href="./HiStream_files/css/style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="./HiStream_files/js/bulma-carousel.min.js"></script>
+<script src="./HiStream_files/js/index.js"></script>
+<script src="./HiStream_files/js/dics.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', domReady);
+    function domReady() {
+        for (const e of document.querySelectorAll(".b-dics")) {
+            new Dics({
+                container: e,
+                textPosition: "top"
+            });
+        }
+    }
+</script>
+</head>
+
+<body>
+<div class="content">
+  <h1><strong><font color="#9900FF">HiStream</font>: Efficient High-Resolution Video Generation <br> via Redundancy Eliminated Streaming</strong></h1>
+  <!-- <p style="text-align: center; font-weight: bold; font-size: 1.2em">CVPR 2026</p> -->
+  <p id="authors"><a href="http://haonanqiu.com/"><b>Haonan Qiu<sup>1,2</sup></b></a> <a href="https://ningyu1991.github.io/"><b>Shikun Liu<sup>1</sup></b></a> <a href="https://ziqihuangg.github.io/"><b>Zijian Zhou<sup>1</sup></b></a> <a href="https://www.pauldebevec.com/"><b>Zhaochong An<sup>1</sup></b></a> <a href="https://liuziwei7.github.io/"><b>Weiming Ren<sup>1</sup></b></a> 
+  <p id="authors"><a href="https://liuziwei7.github.io/"><b>Zhiheng Liu<sup>1</sup></b></a> <a href="https://liuziwei7.github.io/"><b>Jonas Schult<sup>1</sup></b></a> <a href="http://haonanqiu.com/"><b>Sen He<sup>1</sup></b></a> <a href="https://ningyu1991.github.io/"><b>Shoufa Chen<sup>1</sup></b></a> <a href="https://ziqihuangg.github.io/"><b>Yuren Cong<sup>1</sup></b></a> 
+  <p id="authors"><a href="https://www.pauldebevec.com/"><b>Tao Xiang<sup>2</sup></b></a> <a href="https://liuziwei7.github.io/"><b>Ziwei Liu<sup>*2</sup></b></a> <a href="https://liuziwei7.github.io/"><b>Juan-Manuel Perez-Rua<sup>*1</sup></b></a><br>
+  <br>
+  <span style="font-size: 16px"><b><sup>1</sup> Meta AI</b> &nbsp;&nbsp; <b><sup>2</sup> Nanyang Technological University</b>
+  </span>
+  <br>
+  <span style="font-size: 16px"><b>(<sup>*</sup> Corresponding Author)</b>
+  </span></p>
+  <font size="+2">
+    <p style="text-align: center;">
+      <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank"><b>[arXiv]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/arthur-qiu/HiStream" target="_blank"><b>[Code (under legal review)]</b></a>
+    </p>
+  </font>
+  <br>
+  <img width="960" src="./HiStream_files/figs/fig_teaser.jpg">
+</div>
+
+<div class="content">
+  <h2 style="text-align:center;"><b>Abstract</b></h2>
+  <p>High-resolution video generation, while crucial for digital media and film, is computationally bottlenecked by the quadratic complexity of diffusion models, making practical inference infeasible. To address this, we introduce <b>HiStream</b>, an efficient autoregressive framework that systematically reduces redundancy across three axes: <b>i) Spatial Compression</b>: denoising at low resolution before refining at high resolution with cached features; <b>ii) Temporal Compression</b>: a chunk-by-chunk strategy with a fixed-size anchor cache, ensuring stable inference speed; and <b>iii) Timestep Compression</b>: applying fewer denoising steps to subsequent, cache-conditioned chunks. On 1080p benchmarks, our primary HiStream model (i+ii) achieves state-of-the-art visual quality while demonstrating up to 76.2× faster denoising compared to the Wan2.1 baseline and negligible quality loss. Our faster variant, <b>HiStream+</b>, applies all three optimizations (i+ii+iii), achieving a <b>107.5×</b> acceleration over the baseline, offering a compelling trade-off between speed and quality, thereby making high-resolution video generation both practical and scalable.</p>
+</div>
+
+
+<div class="content">
+  <h2><b>Observation</b></h2>
+  <div style="text-align: center;">
+  <h2>Temporal Redundancy</h2>
+  <img width="1000" src="./HiStream_files/figs/fig_attention.jpg">
+  <p>Visualization of temporal attention. (<b>Right</b>) Attention during autoregressive generation naturally focuses on the initial frame and the two most recent neighboring frames. (<b>Left</b>) This visualization demonstrates that dropping intermediate, less important frames has a negligible impact, even without retraining. Conversely, dropping the initial frame causes catastrophic quality degradation.</p>
+  <video width="1000" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./HiStream_files/vids/vid_observation1.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  <br><br>
+  <h2>Spatial Redundancy & Timestep Redundancy</h2>
+  <img width="1000" src="./HiStream_files/figs/fig_timestep.jpg">
+  <p>Results visualization of different timesteps. (<b>Left</b>) A notable quality gap exists at Step 1 between frame 9 (chunk 1) and frame 17 (chunk 2). The fully denoised cache from chunk 1 provides high-value context, enabling chunk 2 to achieve a near-final quality (comparable to Step 3) in just one step. (<b>Right</b>) Blur Trial: We also test robustness by blurring the outputs of Steps 1 and 2 (via down/upsampling) in the 4-step process. The final result remains nearly indistinguishable from the Baseline Setting.</p>
+  <video width="1000" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./HiStream_files/vids/vid_observation2.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2><b>Methodology</b></h2>
+  <p>Pipeline details. Illustration of the synergy among our three core efficiency mechanisms.</p>
+  <div style="text-align: center;">
+  <h2>Temporal Compression</h2>
+  <img width="1000" src="./HiStream_files/figs/fig_pipeline1.jpg">
+  <p>The <b>Anchor-Guided Sliding Window</b> strategy ensures robust temporal scalability by generating the video in fixed-size chunks. Each generation step maintains a constant attention context by combining tokens from the persistent content anchor (the first frame, dark green) and recent historical context (local frames, dark blue), thereby avoiding the growth of the KV cache over time.</p>
+  <br>
+  <h2>Spatial Compression & Timestep Compression (optional)</h2>
+  <img width="1000" src="./HiStream_files/figs/fig_pipeline2.jpg">
+  <p>The <b>Dual-Resolution Caching</b> accelerates synthesis by adopting a two-stage process: initial low-resolution denoising is followed by high-resolution refinement. Crucially, the final high-resolution output updates KV<sub>high</sub> and is subsequently downsampled to update KV<sub>low</sub>, ensuring spatial consistency for subsequent chunks. With <b>Asymmetric Denoising</b>, subsequent chunks use half as many denoising steps as the first chunk.</p>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2><b>Qualitative comparisons (1080p)</b></h2>
+  <p>The videos generated by HiStream exhibit the highest visual fidelity and the cleanest texture, free from spurious patterns or visible artifacts.</p>
+  <div style="text-align: center;">
+  <video width="1000" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./HiStream_files/vids/vid_baseline.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2><b>Qualitative ablations (1080p)</b></h2>
+  <p>We perform controlled comparisons of HiStream with alternative variants.</p>
+  <div style="text-align: center;">
+  <video width="1000" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./HiStream_files/vids/vid_ablation.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2><b>Qualitative ablations for timesteps (1080p)</b></h2>
+  <p>We perform controlled comparisons of HiStream with alternative variants in different timestep strategies.</p>
+  <div style="text-align: center;">
+  <video width="1000" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./HiStream_files/vids/vid_timestep_.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2><b>Qualitative comparisons with super-resolution (1080p)</b></h2>
+  <p>Our native high-resolution synthesis captures fine textures with greater accuracy than two-stage super-resolution pipelines, which often miss or hallucinate details.</p>
+  <div style="text-align: center;">
+  <video width="1000" autoplay muted loop playsinline>
+    <!-- Your video file here -->
+    <source src="./HiStream_files/vids/vid_sr.mp4"
+    type="video/mp4">
+  sorry, your browser does not support HTML5 Videos.
+  </video>
+  </div>
+</div>
+
+
+<div class="content">
+  <h2>BibTex</h2>
+  <p>
+      If you find this paper useful in your research, please consider citing:
+  </p>
+  <div class="row">
+  <pre>
+<!--   @article{qiu2025cinescale,
+    title={CineScale: Free Lunch in High-Resolution Cinematic Visual Generation}, 
+    author={Haonan Qiu and Ning Yu and Ziqi Huang and Paul Debevec and Ziwei Liu},
+    journal={arXiv preprint arXiv:2508.15774},
+    year={2025}
+  } -->
+  </pre>
+  </div>
+</div>
+
+
+</body>
+</html>
