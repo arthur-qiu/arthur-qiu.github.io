@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My core research centers on Artificial Intelligence Generated Content (AIGC), particularly exploring methods to unlock the full latent potential of pre-trained video generation models. My academic work spans key areas of video diffusion, such as long video generation, high-resolution visual synthesis, efficiency optimization, motion control, and customized generation.
+I'm **Haonan Qiu (邱浩楠)**, a PhD graduate from the CCDS department at Nanyang Technological University, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My core research centers on Artificial Intelligence Generated Content (AIGC), particularly exploring methods to unlock the full latent potential of pre-trained video generation models. My academic work spans key areas of video diffusion, such as long video generation, high-resolution visual synthesis, efficiency optimization, motion control, and customized generation.
 
 Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering.
 
@@ -18,9 +18,9 @@ Prior to it, I received my bachelor degree from The Chinese University of Hong K
 
 <img src='./files/histream.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
 **HiStream: Efficient High-Resolution Video Generation via Redundancy Eliminated Streaming**    
-**Haonan Qiu**, [Shikun Liu](https://shikun.io/), [Zijian Zhou](https://sites.google.com/view/zijian-zhou/home), [Zhaochong An](https://zhaochongan.github.io/), [Weiming Ren](https://cs.uwaterloo.ca/~w2ren/), [Zhiheng Liu](https://johanan528.github.io/), [Jonas Schult](https://jonasschult.github.io/), [Sen He](https://senhe.github.io/), [Shoufa Chen](https://www.shoufachen.com/), [Yuren Cong](https://yrcong.github.io/), [Tao Xiang](https://scholar.google.com/citations?user=MeS5d4gAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/), [Juan-Manuel Perez-Rua](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=es)  
+**Haonan Qiu**, [Shikun Liu](https://shikun.io/), [Zijian Zhou](https://sites.google.com/view/zijian-zhou/home), [Zhaochong An](https://zhaochongan.github.io/), [Weiming Ren](https://cs.uwaterloo.ca/~w2ren/), [Zhiheng Liu](https://johanan528.github.io/), [Jonas Schult](https://jonasschult.github.io/), [Sen He](https://senhe.github.io/), [Shoufa Chen](https://www.shoufachen.com/), [Yuren Cong](https://yrcong.github.io/), [Tao Xiang](https://scholar.google.com/citations?user=MeS5d4gAAAAJ&hl=zh-CN), [Ziwei Liu\*](https://liuziwei7.github.io/), [Juan-Manuel Perez-Rua\*](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=es)  
 arXiv, 2025.
-[[Project Page](http://haonanqiu.com/projects/HiStream.html)] [[arXiv](https://arxiv.org/abs/2512.21338)] [[Code (under legal review)](https://github.com/arthur-qiu/HiStream)]
+[[Project Page](http://haonanqiu.com/projects/HiStream.html)] [[arXiv](https://arxiv.org/abs/2512.21338)] [[Code (under review)](https://github.com/arthur-qiu/HiStream)]
 
 <img src='./files/cinescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
 **CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**    
@@ -34,17 +34,17 @@ arXiv, 2025.
 
 # Selected Publications
 
-<img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
-**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
-International Journal of Computer Vision (IJCV), 2026.
-[[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]  
-
 <img src='./files/freescale.jpg' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
 **Haonan Qiu**, [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ), [Yujie Wei](https://weilllllls.github.io/), [Ruihang Chu](https://ruihangchu.com/), [Hangjie Yuan](https://jacobyuan7.github.io/), [Xiang Wang](https://scholar.google.com/citations?user=cQbXvkcAAAAJ), [Yingya Zhang](https://scholar.google.com/citations?user=16RDSEUAAAAJ), [Ziwei Liu](https://liuziwei7.github.io/)      
 International Conference on Computer Vision (ICCV), 2025.
 [[Project Page](http://haonanqiu.com/projects/FreeScale.html)] [[arXiv](https://arxiv.org/abs/2412.09626)] [[Code](https://github.com/ali-vilab/FreeScale)]  
+
+<img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
+**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
+International Journal of Computer Vision (IJCV), 2026.
+[[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]
 
 <img src='./files/freenoise.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**    
@@ -69,12 +69,6 @@ European Conference on Computer Vision (ECCV), 2020.
 **Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io), [Yuming Jiang](https://yumingj.github.io/), [Hang Zhou](https://hangz-nju-cuhk.github.io/), [Wayne Wu](https://wywu.github.io/), [Xiangyu Fan](https://github.com/arthur-qiu/ReliTalk), [Lei Yang](https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en), [Ziwei Liu](https://liuziwei7.github.io/)    
 International Journal of Computer Vision (IJCV), 2024.
 [[Project Page](http://haonanqiu.com/projects/ReliTalk.html)] [[arXiv](https://arxiv.org/abs/2309.02434)] [[Code](https://github.com/arthur-qiu/ReliTalk)]
-
-<img src='./files/hairgan.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**Two-phase Hair Image Synthesis by Self-Enhancing Generative Model**   
-**Haonan Qiu**, Chuan Wang, Hang Zhu, Xiangyu Zhu, [Jinjin Gu](http://www.jasongt.com/), [Xiaoguang Han](http://sse.cuhk.edu.cn/en/node/7360)   
-Computer Graphics Forum (CGF), 2019.
-[[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13847)] [[arXiv](https://arxiv.org/abs/1902.11203)] [[Dataset](./datasets)]
 
 <img src='./files/text2human.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **Text2Human: Text-Driven Controllable Human Image Generation**   
