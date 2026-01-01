@@ -10,31 +10,35 @@ redirect_from:
 
 I'm **Haonan Qiu (邱浩楠)**, the final year PhD student at NTU CCDS department, supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). My core research centers on Artificial Intelligence Generated Content (AIGC), particularly exploring methods to unlock the full latent potential of pre-trained video generation models. My academic work spans key areas of video diffusion, such as long video generation, high-resolution visual synthesis, efficiency optimization, motion control, and customized generation.
 
-Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering. 
-
-<font color='red'> I am actively seeking a full-time research position based in Singapore, with a primary focus on video generation, enhancement, and control. </font>
+Prior to it, I received my bachelor degree from The Chinese University of Hong Kong, Shenzhen, majoring in computer science at School of Science and Engineering.
 
 ---
 
 # Working Papers
+
+<img src='./files/histream.jpg' style='float:left;width:280px;height:180px;margin-left:20px;margin-right:20px'/>
+**HiStream: Efficient High-Resolution Video Generation via Redundancy Eliminated Streaming**    
+**Haonan Qiu**, [Shikun Liu](https://shikun.io/), [Zijian Zhou](https://sites.google.com/view/zijian-zhou/home), [Zhaochong An](https://zhaochongan.github.io/), [Weiming Ren](https://cs.uwaterloo.ca/~w2ren/), [Zhiheng Liu](https://johanan528.github.io/), [Jonas Schult](https://jonasschult.github.io/), [Sen He](https://senhe.github.io/), [Shoufa Chen](https://www.shoufachen.com/), [Yuren Cong](https://yrcong.github.io/), [Tao Xiang](https://scholar.google.com/citations?user=MeS5d4gAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/), [Juan-Manuel Perez-Rua](https://scholar.google.com/citations?user=Vbvimu4AAAAJ&hl=es)  
+arXiv, 2025.
+[[Project Page](http://haonanqiu.com/projects/HiStream.html)] [[arXiv](https://arxiv.org/abs/2512.21338)] [[Code (under legal review)](https://github.com/arthur-qiu/HiStream)]
 
 <img src='./files/cinescale.jpg' style='float:left;width:280px;height:140px;margin-left:20px;margin-right:20px'/>
 **CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**    
 **Haonan Qiu**, [Ning Yu](https://ningyu1991.github.io/), [Ziqi Huang](https://ziqihuangg.github.io/), [Paul Debevec](https://www.pauldebevec.com/), [Ziwei Liu](https://liuziwei7.github.io/)    
 arXiv, 2025.
 [[Project Page](https://eyeline-labs.github.io/CineScale/)] [[arXiv](https://arxiv.org/abs/2508.15774)] [[Code](https://github.com/Eyeline-Labs/CineScale)]  
-
-<img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
-**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
-**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
-arXiv, 2024.
-[[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]  
 <br>
 
 ---
 
 
 # Selected Publications
+
+<img src='./files/freetraj.gif' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**    
+**Haonan Qiu**, [Zhaoxi Chen](https://frozenburning.github.io/), [Zhouxia Wang](http://luoping.me/author/zhouxia-wang/), [Yingqing He](https://github.com/YingqingHe), [Menghan Xia](https://menghanxia.github.io), [Ziwei Liu](https://liuziwei7.github.io/)    
+International Journal of Computer Vision (IJCV), 2026.
+[[Project Page](http://haonanqiu.com/projects/FreeTraj.html)] [[arXiv](https://arxiv.org/abs/2406.16863)] [[Code](https://github.com/arthur-qiu/FreeTraj)]  
 
 <img src='./files/freescale.jpg' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**    
